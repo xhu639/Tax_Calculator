@@ -1,0 +1,747 @@
+﻿tariff_code,description,import_duty,import_excise,import_vagst,export_duty,unit,sitc_code,hierarchy_level,level_name,has_tax_info,page_number,extraction_method
+01.01,"01.01 Live horses, asses, mules and",,,,,,,2,"01.01 Live horses, asses, mules and",False,1,text
+0101.21,00 - - Pure-bred breeding animals     No. 00151,8%,Free,15%,Free,,,2,00 - - Pure-bred breeding animals     No. 00151,True,1,text
+0101.29,00 - - Other     No. 00151,20%,Free,15%,Free,,,2,00 - - Other     No. 00151,True,1,text
+0101.30,00 - Asses     No. 00151,8%,Free,15%,Free,,,2,00 - Asses     No. 00151,True,1,text
+0101.90,00 - Other     No. 00151,8%,Free,15%,Free,,,2,00 - Other     No. 00151,True,1,text
+01.02,01.02 Live bovine animals,,,,,,,2,01.02 Live bovine animals,False,1,text
+0102.31,00 -- Pure-bred breeding animals     No. 00111,Free,Free,15%,Free,,,2,00 -- Pure-bred breeding animals     No. 00111,True,1,text
+0102.39,00 -- Other     No. 00111,8%,Free,15%,Free,,,2,00 -- Other     No. 00111,True,1,text
+0102.90,00 -Other     No. 00119,8%,Free,15%,Free,,,2,00 -Other     No. 00119,True,1,text
+01.03,01.03 Live swine.,,,,,,,2,01.03 Live swine.,False,1,text
+0103.10,00 - Pure-bred breeding animals     No. 00131,8%,Free,15%,Free,,,2,00 - Pure-bred breeding animals     No. 00131,True,1,text
+0103.91,00 - - Weighing less than 50 kg     No. 00139,8%,Free,15%,Free,,,2,00 - - Weighing less than 50 kg     No. 00139,True,2,text
+0103.92,00 - - Weighing 50 kg or more     No. 00139,8%,Free,15%,Free,,,2,00 - - Weighing 50 kg or more     No. 00139,True,2,text
+01.04,01.04 Live sheep and goats.,,,,,,,2,01.04 Live sheep and goats.,False,2,text
+0104.10,00 - Sheep     No. 00121,8%,Free,15%,Free,,,2,00 - Sheep     No. 00121,True,2,text
+0104.20,00 - Goats     No. 00122,8%,Free,15%,Free,,,2,00 - Goats     No. 00122,True,2,text
+01.05,"01.05 Live poultry, that is to say, fowls of",,,,,,,2,"01.05 Live poultry, that is to say, fowls of",False,2,text
+0105.11,00 - - Fowls of the species Gallus     No. 00141,Free,Free,15%,Free,,,2,00 - - Fowls of the species Gallus     No. 00141,True,2,text
+0105.12,00 - - Turkeys     No. 00141,Free,Free,15%,Free,,,2,00 - - Turkeys     No. 00141,True,2,text
+0105.13,00 - - Ducks     No. 00141,Free,Free,15%,Free,,,2,00 - - Ducks     No. 00141,True,2,text
+0105.14,00 - - Geese     No. 00141,Free,Free,15%,Free,,,2,00 - - Geese     No. 00141,True,2,text
+0105.15,00 - - Guinea fowls     No. 00141,Free,Free,15%,Free,,,2,00 - - Guinea fowls     No. 00141,True,2,text
+0105.94,00 - - Fowls of species Gallus     No. 00149,Free,Free,15%,Free,,,2,00 - - Fowls of species Gallus     No. 00149,True,2,text
+0105.99,00 - - Other     No. 00149,Free,Free,15%,Free,,,2,00 - - Other     No. 00149,True,2,text
+01.06,01.06 Other live animals.,,,,,,,2,01.06 Other live animals.,False,2,text
+0106.11,00 - - Primates     No. 00190,8%,Free,15%,Free,,,2,00 - - Primates     No. 00190,True,2,text
+0106.12,10 ---Dolphins and porpoises     No. 00190,8%,Free,15%,Free,,,2,10 ---Dolphins and porpoises     No. 00190,True,2,text
+0106.12,90 ---Other     No. 00190,8%,Free,15%,Free,,,2,90 ---Other     No. 00190,True,2,text
+0106.13,00 - - Camels and other camelids     No. 00190,8%,Free,15%,Free,,,2,00 - - Camels and other camelids     No. 00190,True,2,text
+0106.14,00 - - Rabbits and hares     No. 00190,8%,Free,15%,Free,,,2,00 - - Rabbits and hares     No. 00190,True,2,text
+0106.19,00 - - Other     No. 00190,8%,Free,15%,Free,,,2,00 - - Other     No. 00190,True,2,text
+0106.20,00 - Reptiles (including snakes and     No. 00190,8%,Free,15%,Free,,,2,00 - Reptiles (including snakes and     No. 00190,True,2,text
+0106.31,00 - - Birds of prey     No. 00190,8%,Free,15%,Free,,,2,00 - - Birds of prey     No. 00190,True,3,text
+0106.32,00 - - Psittaciformes (including     No. 00190,8%,Free,15%,Free,,,2,00 - - Psittaciformes (including     No. 00190,True,3,text
+0106.33,00 --Ostriches; emus Dromaius     No. 00190,8%,Free,15%,Free,,,2,00 --Ostriches; emus Dromaius     No. 00190,True,3,text
+0106.39,10 ---Of a kind used for human food     No. 00190,8%,Free,15%,Free,,,2,10 ---Of a kind used for human food     No. 00190,True,3,text
+0106.39,"90 ---Other (including zoo animals,     No. 00190",20%,Free,15%,Free,,,2,"90 ---Other (including zoo animals,     No. 00190",True,3,text
+0106.41,00 -- Bees     No. 00190,8%,Free,15%,Free,,,2,00 -- Bees     No. 00190,True,3,text
+0106.49,00 -- Other     No. 00190,8%,Free,15%,Free,,,2,00 -- Other     No. 00190,True,3,text
+0106.90,00 - Other     No. 00190,8%,Free,15%,Free,,,2,00 - Other     No. 00190,True,3,text
+02.01,"02.01 Meat of bovine animals, fresh",,,,,,,2,"02.01 Meat of bovine animals, fresh",False,4,text
+0201.10,00 - Carcasses and half-carcasses     kg 01111,8%,Free,15%,Free,,,2,00 - Carcasses and half-carcasses     kg 01111,True,4,text
+0201.20,00 - Other cuts with bone in     kg 01112,8%,Free,15%,Free,,,2,00 - Other cuts with bone in     kg 01112,True,4,text
+0201.30,00 - Boneless     kg 01112,8%,Free,15%,Free,,,2,00 - Boneless     kg 01112,True,4,text
+02.02,"02.02 Meat of bovine animals, frozen.",,,,,,,2,"02.02 Meat of bovine animals, frozen.",False,4,text
+0202.10,00 - Carcasses and half-carcasses     kg 01121,8%,Free,15%,Free,,,2,00 - Carcasses and half-carcasses     kg 01121,True,4,text
+0202.20,00 - Other cuts with bone in     kg 01121,8%,Free,15%,Free,,,2,00 - Other cuts with bone in     kg 01121,True,4,text
+0202.30,00 - Boneless     kg 01122,8%,Free,15%,Free,,,2,00 - Boneless     kg 01122,True,4,text
+02.03,"02.03 Meat of swine, fresh, chilled",,,,,,,2,"02.03 Meat of swine, fresh, chilled",False,4,text
+0203.11,00 - - Carcasses and half-carcasses     kg 01221,8%,Free,15%,Free,,,2,00 - - Carcasses and half-carcasses     kg 01221,True,4,text
+0203.12,"00 - - Hams, shoulders and cuts     kg 01221",8%,Free,15%,Free,,,2,"00 - - Hams, shoulders and cuts     kg 01221",True,4,text
+0203.19,10 ---Pig trotters     kg 01221,8%,Free,15%,Free,,,2,10 ---Pig trotters     kg 01221,True,4,text
+0203.19,90 ---Other     kg 01221,8%,Free,15%,Free,,,2,90 ---Other     kg 01221,True,4,text
+0203.21,00 - - Carcasses and half-carcasses     kg 01222,8%,Free,15%,Free,,,2,00 - - Carcasses and half-carcasses     kg 01222,True,4,text
+0203.22,"00 - - Hams, shoulders and cuts     kg 01222",8%,Free,15%,Free,,,2,"00 - - Hams, shoulders and cuts     kg 01222",True,4,text
+0203.29,10 - - - Pigs trotters     kg 01222,5%,Free,15%,Free,,,2,10 - - - Pigs trotters     kg 01222,True,4,text
+0203.29,90 - - - Other     kg 01222,8%,Free,15%,Free,,,2,90 - - - Other     kg 01222,True,4,text
+02.04,"02.04 Meat of sheep or goats, fresh,",,,,,,,2,"02.04 Meat of sheep or goats, fresh,",False,5,text
+0204.10,00 - Carcasses and half-carcasses of     kg 01211,20%,Free,15%,Free,,,2,00 - Carcasses and half-carcasses of     kg 01211,True,5,text
+0204.21,00 - - Carcasses and half-carcasses     kg 01211,20%,Free,15%,Free,,,2,00 - - Carcasses and half-carcasses     kg 01211,True,5,text
+0204.22,00 - - Other cuts with bone in     kg 01211,20%,Free,15%,Free,,,2,00 - - Other cuts with bone in     kg 01211,True,5,text
+0204.23,00 - - Boneless     kg 01211,20%,Free,15%,Free,,,2,00 - - Boneless     kg 01211,True,5,text
+0204.30,00 - Carcasses and half-carcasses of     kg 01212,20%,Free,15%,Free,,,2,00 - Carcasses and half-carcasses of     kg 01212,True,5,text
+0204.41,00 - - Carcasses and half-carcasses     kg 01212,20%,Free,15%,Free,,,2,00 - - Carcasses and half-carcasses     kg 01212,True,5,text
+0204.42,00 - - Other cuts with bone in     kg 01212,20%,Free,15%,Free,,,2,00 - - Other cuts with bone in     kg 01212,True,5,text
+0204.43,10 --- Mutton flaps (inexpensive     kg 01212,20%,Free,15%,Free,,,2,10 --- Mutton flaps (inexpensive     kg 01212,True,5,text
+0204.43,90 --- Other     kg 01212,Free,Free,15%,Free,,,2,90 --- Other     kg 01212,True,5,text
+0204.50,00 - Meat of goats     kg 01213,Free,Free,15%,Free,,,2,00 - Meat of goats     kg 01213,True,5,text
+0205.00,"00 Meat of horses, asses, mules or     kg 01240",8%,Free,15%,Free,,,2,"00 Meat of horses, asses, mules or     kg 01240",True,5,text
+02.06,"02.06 Edible offal of bovine animals,",,,,,,,2,"02.06 Edible offal of bovine animals,",False,5,text
+0206.10,"00 - Of bovine animals, fresh or     kg 01251",20%,Free,15%,Free,,,2,"00 - Of bovine animals, fresh or     kg 01251",True,5,text
+0206.21,00 - - Tongues     kg 01252,20%,Free,15%,Free,,,2,00 - - Tongues     kg 01252,True,5,text
+0206.22,00 - - Livers     kg 01252,20%,Free,15%,Free,,,2,00 - - Livers     kg 01252,True,5,text
+0206.29,00 - - Other     kg 01252,20%,Free,15%,Free,,,2,00 - - Other     kg 01252,True,5,text
+0206.30,"00 - Of swine, fresh or chilled     kg 01253",20%,Free,15%,Free,,,2,"00 - Of swine, fresh or chilled     kg 01253",True,5,text
+0206.41,00 - - Livers     kg 01254,20%,Free,15%,Free,,,2,00 - - Livers     kg 01254,True,5,text
+0206.49,00 - - Other     kg 01254,20%,Free,15%,Free,,,2,00 - - Other     kg 01254,True,5,text
+0206.80,"00 - Other, fresh or chilled     kg 01255",20%,Free,15%,Free,,,2,"00 - Other, fresh or chilled     kg 01255",True,5,text
+0206.90,00 - Other Frozen     kg 01256,20%,Free,15%,Free,,,2,00 - Other Frozen     kg 01256,True,6,text
+02.07,"02.07 Meat and edible offal, of the",,,,,,,2,"02.07 Meat and edible offal, of the",False,6,text
+0207.11,10 ---Livers     kg 01231,Free,Free,15%,Free,,,2,10 ---Livers     kg 01231,True,6,text
+0207.11,20 ---Wings     kg 01231,Free,Free,15%,Free,,,2,20 ---Wings     kg 01231,True,6,text
+0207.11,90 ---Other     kg 01231,Free,Free,15%,Free,,,2,90 ---Other     kg 01231,True,6,text
+0207.12,10 ---Livers     kg 01231,Free,Free,15%,Free,,,2,10 ---Livers     kg 01231,True,6,text
+0207.12,20 ---Wings     kg 01231,Free,Free,15%,Free,,,2,20 ---Wings     kg 01231,True,6,text
+0207.12,90 ---Other     kg 01231,Free,Free,15%,Free,,,2,90 ---Other     kg 01231,True,6,text
+0207.13,10 ---Cuts     kg 01231,Free,Free,15%,Free,,,2,10 ---Cuts     kg 01231,True,6,text
+0207.13,20 ---Offal     kg 01231,20%,Free,15%,Free,,,2,20 ---Offal     kg 01231,True,6,text
+0207.13,90 ---Other     kg 01231,20%,Free,15%,Free,,,2,90 ---Other     kg 01231,True,6,text
+0207.14,10 ---Cuts     kg 01231,10%,Free,15%,Free,,,2,10 ---Cuts     kg 01231,True,6,text
+0207.14,20 ---Offal     kg 01231,20%,Free,15%,Free,,,2,20 ---Offal     kg 01231,True,6,text
+0207.14,90 ---Other     kg 01231,20%,Free,15%,Free,,,2,90 ---Other     kg 01231,True,6,text
+0207.24,"00 - - Not cut in pieces, fresh or     kg 01232",Free,Free,15%,Free,,,2,"00 - - Not cut in pieces, fresh or     kg 01232",True,6,text
+0207.25,"00 - - Not cut in pieces, frozen     kg 01232",Free,Free,15%,Free,,,2,"00 - - Not cut in pieces, frozen     kg 01232",True,6,text
+0207.26,10 - - - Tails     kg 01232,20%,10%,15%,Free,,,2,10 - - - Tails     kg 01232,True,6,text
+0207.26,20 - - - Wings     kg 01232,5%,Free,15%,Free,,,2,20 - - - Wings     kg 01232,True,6,text
+0207.26,30 - - - Other cuts     kg 01232,5%,Free,15%,Free,,,2,30 - - - Other cuts     kg 01232,True,6,text
+0207.26,40 - - - Offal     kg 01232,20%,Free,15%,Free,,,2,40 - - - Offal     kg 01232,True,6,text
+0207.27,10 - - - Tails     kg 01232,20%,10%,15%,Free,,,2,10 - - - Tails     kg 01232,True,7,text
+0207.27,20 - - - Wings     kg 01232,5%,Free,15%,Free,,,2,20 - - - Wings     kg 01232,True,7,text
+0207.27,30 - - - Other cuts     kg 01232,5%,Free,15%,Free,,,2,30 - - - Other cuts     kg 01232,True,7,text
+0207.27,40 - - - Offal     kg 01232,20%,Free,15%,Free,,,2,40 - - - Offal     kg 01232,True,7,text
+0207.41,"00 - - Not cut in pieces, fresh or     kg 01233",Free,Free,15%,Free,,,2,"00 - - Not cut in pieces, fresh or     kg 01233",True,7,text
+0207.42,"00 - - Not cut in pieces, frozen     kg 01233",Free,Free,15%,Free,,,2,"00 - - Not cut in pieces, frozen     kg 01233",True,7,text
+0207.43,"00 - - Fatty livers, fresh or chilled     kg 01233",20%,Free,15%,Free,,,2,"00 - - Fatty livers, fresh or chilled     kg 01233",True,7,text
+0207.44,"00 - - Other, fresh or chilled     kg 01233",20%,Free,15%,Free,,,2,"00 - - Other, fresh or chilled     kg 01233",True,7,text
+0207.45,10 --- Livers     kg 01233,20%,Free,15%,Free,,,2,10 --- Livers     kg 01233,True,7,text
+0207.45,90,,,,,,,2,90,False,7,text
+0207.51,"00 -- Not cut in pieces, fresh or chilled     kg 01233",Free,Free,15%,Free,,,2,"00 -- Not cut in pieces, fresh or chilled     kg 01233",True,7,text
+0207.52,"00 -- Not cut in pieces, frozen     kg 01233",Free,Free,15%,Free,,,2,"00 -- Not cut in pieces, frozen     kg 01233",True,7,text
+0207.53,"00 -- Fatty livers, fresh or chilled     kg 01233",20%,Free,15%,Free,,,2,"00 -- Fatty livers, fresh or chilled     kg 01233",True,7,text
+0207.54,"00 -- Other, fresh or chilled     kg 01233",20%,Free,15%,Free,,,2,"00 -- Other, fresh or chilled     kg 01233",True,7,text
+0207.55,10 ---Livers     kg 01233,20%,Free,15%,Free,,,2,10 ---Livers     kg 01233,True,7,text
+0207.55,90 ---Other     kg 01233,20%,Free,15%,Free,,,2,90 ---Other     kg 01233,True,7,text
+0207.60,10 ---Livers     kg 01233,20%,Free,15%,Free,,,2,10 ---Livers     kg 01233,True,7,text
+0207.60,90 ---Other     kg 01233,20%,Free,15%,Free,,,2,90 ---Other     kg 01233,True,7,text
+02.08,"02.08 Other meat and edible meat offal,",,,,,,,2,"02.08 Other meat and edible meat offal,",False,7,text
+0208.10,00 - Of rabbits or hares     kg 01291,20%,Free,15%,Free,,,2,00 - Of rabbits or hares     kg 01291,True,7,text
+0208.30,00 - Of primates     kg 01292,20%,Free,15%,Free,,,2,00 - Of primates     kg 01292,True,7,text
+0208.40,10 --- Dolphins and porpoises     kg 01292,20%,Free,15%,Free,,,2,10 --- Dolphins and porpoises     kg 01292,True,8,text
+0208.40,90 --- Other     kg 01292,20%,Free,15%,Free,,,2,90 --- Other     kg 01292,True,8,text
+0208.50,10 ---Of crocodiles     kg 01292,20%,Free,15%,Free,,,2,10 ---Of crocodiles     kg 01292,True,8,text
+0208.50,90 ---Other     kg 01292,20%,Free,15%,Free,,,2,90 ---Other     kg 01292,True,8,text
+0208.60,00 -- Of camels and other camelids     kg 01292,20%,Free,15%,Free,,,2,00 -- Of camels and other camelids     kg 01292,True,8,text
+0208.90,00 - Other     kg 01299,20%,Free,15%,Free,,,2,00 - Other     kg 01299,True,8,text
+02.09,"02.09 Pig fat, free of lean meat, and",,,,,,,2,"02.09 Pig fat, free of lean meat, and",False,8,text
+0209.10,00 --Of pigs     kg 41131,20%,Free,15%,Free,,,2,00 --Of pigs     kg 41131,True,8,text
+0209.90,00 --Others     kg 41131,20%,Free,15%,Free,,,2,00 --Others     kg 41131,True,8,text
+02.10,"02.10 Meat and edible meat offal,",,,,,,,2,"02.10 Meat and edible meat offal,",False,8,text
+0210.11,"00 - - Hams, shoulders and cuts     kg 01611",20%,Free,15%,Free,,,2,"00 - - Hams, shoulders and cuts     kg 01611",True,8,text
+0210.12,00 - - Bellies (streaky) and cuts     kg 01612,20%,Free,15%,Free,,,2,00 - - Bellies (streaky) and cuts     kg 01612,True,8,text
+0210.19,10 ---Bacon     kg 01619,20%,Free,15%,Free,,,2,10 ---Bacon     kg 01619,True,8,text
+0210.19,90 ---Other     kg 01619,20%,Free,15%,Free,,,2,90 ---Other     kg 01619,True,8,text
+0210.20,"10 ---Beef, corned     kg 01681",20%,Free,15%,Free,,,2,"10 ---Beef, corned     kg 01681",True,8,text
+0210.20,20 ---Tongues     kg 01681,20%,Free,15%,Free,,,2,20 ---Tongues     kg 01681,True,8,text
+0210.20,90 ---Other     kg 01681,20%,Free,15%,Free,,,2,90 ---Other     kg 01681,True,9,text
+0210.91,00 - - Of primates     kg 01689,20%,Free,15%,Free,,,2,00 - - Of primates     kg 01689,True,9,text
+0210.92,"00 - Of whales, dolphins and     kg 01689",20%,Free,15%,Free,,,2,"00 - Of whales, dolphins and     kg 01689",True,9,text
+0210.93,10 ---Of crocodiles     kg 01689,20%,Free,15%,Free,,,2,10 ---Of crocodiles     kg 01689,True,9,text
+0210.93,90 ---Other     kg 01689,20%,Free,15%,Free,,,2,90 ---Other     kg 01689,True,9,text
+0210.99,10 ---Shearwaters (Mutton birds)     kg 01689,20%,Free,15%,Free,,,2,10 ---Shearwaters (Mutton birds)     kg 01689,True,9,text
+0210.99,20 ---Poultry liver     kg 01689,20%,Free,15%,Free,,,2,20 ---Poultry liver     kg 01689,True,9,text
+0210.99,90 ---Other     kg 01689,20%,Free,15%,Free,,,2,90 ---Other     kg 01689,True,9,text
+03.01,03.01 Live fish.,,,,,,,2,03.01 Live fish.,False,10,text
+0301.11,00 -- Freshwater     kg 03411,20%,Free,15%,Free,,,2,00 -- Freshwater     kg 03411,True,10,text
+0301.19,00 -- Other     kg 03411,20%,Free,15%,Free,,,2,00 -- Other     kg 03411,True,10,text
+0301.91,"00 - - Trout (Salmo trutta,     kg 03411",20%,Free,15%,Free,,,2,"00 - - Trout (Salmo trutta,     kg 03411",True,10,text
+0301.92,00 - - Eels (Anguilla spp.)     kg 03411,20%,Free,15%,Free,,,2,00 - - Eels (Anguilla spp.)     kg 03411,True,10,text
+0301.93,"00 - - Carp (Cyprinus spp.,Carassius     kg 03411",20%,Free,15%,Free,,,2,"00 - - Carp (Cyprinus spp.,Carassius     kg 03411",True,10,text
+0301.94,00 - - Atlantic and Pacific bluefin     kg 03411,20%,Free,15%,Free,,,2,00 - - Atlantic and Pacific bluefin     kg 03411,True,10,text
+0301.95,00 - - Southern bluefin tunas     kg 03411,20%,Free,15%,Free,,,2,00 - - Southern bluefin tunas     kg 03411,True,10,text
+0301.99,10,,,,,,,2,10,False,11,text
+0301.99,20 ---Live Vietnamese catfish     kg 03411,20%,Free,15%,Free,,,2,20 ---Live Vietnamese catfish     kg 03411,True,11,text
+0301.99,30 --- Other live juvenile     kg 03411,20%,Free,15%,Free,,,2,30 --- Other live juvenile     kg 03411,True,11,text
+0301.99,90 --- Other     kg 03411,20%,Free,15%,Free,,,2,90 --- Other     kg 03411,True,11,text
+03.02,"03.02 Fish, fresh or chilled, excluding",,,,,,,2,"03.02 Fish, fresh or chilled, excluding",False,11,text
+0302.11,"00 - - Trout (Salmo trutta,     kg 03412",20%,Free,15%,Free,,,2,"00 - - Trout (Salmo trutta,     kg 03412",True,11,text
+0302.13,00 - - Pacific salmon (Oncorhynchus     kg 03412,20%,Free,15%,Free,,,2,00 - - Pacific salmon (Oncorhynchus     kg 03412,True,11,text
+0302.14,00 -- Atlantic salmon (Salmo salar)     kg 03412,20%,Free,15%,Free,,,2,00 -- Atlantic salmon (Salmo salar)     kg 03412,True,11,text
+0302.19,00 - - Other     kg 03412,20%,Free,15%,Free,,,2,00 - - Other     kg 03412,True,11,text
+0302.21,00 - - Halibut (Reinhardtius     kg 03413,20%,Free,15%,Free,,,2,00 - - Halibut (Reinhardtius     kg 03413,True,11,text
+0302.22,00 - - Plaice (Pleuronectes platessa)     kg 03413,20%,Free,15%,Free,,,2,00 - - Plaice (Pleuronectes platessa)     kg 03413,True,11,text
+0302.23,00 - - Sole (Solea spp.)     kg 03413,20%,Free,15%,Free,,,2,00 - - Sole (Solea spp.)     kg 03413,True,11,text
+0302.24,00 -- Turbots (Psetta maxima)     kg 03413,20%,Free,15%,Free,,,2,00 -- Turbots (Psetta maxima)     kg 03413,True,11,text
+0302.29,00 - Other     kg 03413,20%,Free,15%,Free,,,2,00 - Other     kg 03413,True,11,text
+0302.31,00 - - Albacore or longfinned tunas     kg 03414,20%,Free,15%,Free,,,2,00 - - Albacore or longfinned tunas     kg 03414,True,12,text
+0302.32,00 - - Yellowfin tunas (Thunnus     kg 03414,20%,Free,15%,Free,,,2,00 - - Yellowfin tunas (Thunnus     kg 03414,True,12,text
+0302.33,00 - - Skipjack or stripe-bellied bonito     kg 03414,20%,Free,15%,Free,,,2,00 - - Skipjack or stripe-bellied bonito     kg 03414,True,12,text
+0302.34,00 - - Bigeye tunas (Thunnus obseus)     kg 03414,20%,Free,15%,Free,,,2,00 - - Bigeye tunas (Thunnus obseus)     kg 03414,True,12,text
+0302.35,00 - - Atlantic and Pacific bluefin     kg 03414,20%,Free,15%,Free,,,2,00 - - Atlantic and Pacific bluefin     kg 03414,True,12,text
+0302.36,00 - - Southern Bluefin tunas     kg 03414,20%,Free,15%,Free,,,2,00 - - Southern Bluefin tunas     kg 03414,True,12,text
+0302.39,00 - - Other (US/Japan)     kg 03414,20%,Free,15%,Free,,,2,00 - - Other (US/Japan)     kg 03414,True,12,text
+0302.99,:,,,,,,,2,:,False,12,text
+0302.41,"00 -- Herrings (Clupea harengus,     kg 03415",20%,Free,15%,Free,,,2,"00 -- Herrings (Clupea harengus,     kg 03415",True,12,text
+0302.42,00 --Anchovies (Engraulis spp.)     kg 03415,20%,Free,15%,Free,,,2,00 --Anchovies (Engraulis spp.)     kg 03415,True,12,text
+0302.43,"00 --Sardines (Sardina pilchardus,     kg 03415",20%,Free,15%,Free,,,2,"00 --Sardines (Sardina pilchardus,     kg 03415",True,12,text
+0302.44,"00 --Mackerel (Scomber scombrus,     kg 03415",20%,Free,15%,Free,,,2,"00 --Mackerel (Scomber scombrus,     kg 03415",True,13,text
+0302.45,00 --Jack and horse mackerel     kg 03415,20%,Free,15%,Free,,,2,00 --Jack and horse mackerel     kg 03415,True,13,text
+0302.46,00 --Cobia (Rachycentron canadum)     kg 03415,20%,Free,15%,Free,,,2,00 --Cobia (Rachycentron canadum)     kg 03415,True,13,text
+0302.47,00 --Swordfish (Xiphias gladius)     kg 03415,20%,Free,15%,Free,,,2,00 --Swordfish (Xiphias gladius)     kg 03415,True,13,text
+0302.49,10 --- Marlin,,,,,,,2,10 --- Marlin,False,13,text
+0302.49,20 --- Sailfish,,,,,,,2,20 --- Sailfish,False,13,text
+0302.49,90 --- Other,,,,,,,2,90 --- Other,False,13,text
+0302.49,90 ---Other     kg 03415,20%,Free,15%,Free,,,2,90 ---Other     kg 03415,True,13,text
+0302.51,"00 --Cod (Gadus morhua, Gadus ogac,     kg 03416",20%,Free,15%,Free,,,2,"00 --Cod (Gadus morhua, Gadus ogac,     kg 03416",True,13,text
+0302.52,00 --Haddock (Melanogrammus     kg 03416,20%,Free,15%,Free,,,2,00 --Haddock (Melanogrammus     kg 03416,True,13,text
+0302.53,00 --Coalfish (Pollachius virens)     kg 03416,20%,Free,15%,Free,,,2,00 --Coalfish (Pollachius virens)     kg 03416,True,13,text
+0302.54,"00 --Hake (Merluccius spp., Urophycis     kg 03416",20%,Free,15%,Free,,,2,"00 --Hake (Merluccius spp., Urophycis     kg 03416",True,13,text
+0302.55,00 --Alaska Pollack (Theragra     kg 03416,20%,Free,15%,Free,,,2,00 --Alaska Pollack (Theragra     kg 03416,True,13,text
+0302.56,00 --Blue whitings (Micromesistius     kg 03416,20%,Free,15%,Free,,,2,00 --Blue whitings (Micromesistius     kg 03416,True,13,text
+0302.59,10 --- Reef fish     kg 03416,20%,Free,15%,Free,,,2,10 --- Reef fish     kg 03416,True,13,text
+0302.59,90 --- Other     kg 03416,20%,Free,15%,Free,,,2,90 --- Other     kg 03416,True,13,text
+0302.71,00 -- Tilapias (Oreochromis spp.)     kg 03419,20%,Free,15%,Free,,,2,00 -- Tilapias (Oreochromis spp.)     kg 03419,True,14,text
+0302.72,"00 -- Catfish (Pangasius spp., Silurus     kg 03419",20%,Free,15%,Free,,,2,"00 -- Catfish (Pangasius spp., Silurus     kg 03419",True,14,text
+0302.73,"00 -- Carp (Cyprinus spp., Carassius     kg 03419",20%,Free,15%,Free,,,2,"00 -- Carp (Cyprinus spp., Carassius     kg 03419",True,14,text
+0302.74,00 -- Eels (Anguilla spp.)     kg 03419,20%,Free,15%,Free,,,2,00 -- Eels (Anguilla spp.)     kg 03419,True,14,text
+0302.79,00 -- Other     kg 03419,20%,Free,15%,Free,,,2,00 -- Other     kg 03419,True,14,text
+0302.81,00 -- Dogfish and other sharks     kg 03419,20%,Free,15%,Free,,,2,00 -- Dogfish and other sharks     kg 03419,True,14,text
+0302.82,00 -- Rays and skates (Rajidae)     kg 03419,20%,Free,15%,Free,,,2,00 -- Rays and skates (Rajidae)     kg 03419,True,14,text
+0302.83,00 -- Toothfish (Dissostichus spp.)     kg 03419,20%,Free,15%,Free,,,2,00 -- Toothfish (Dissostichus spp.)     kg 03419,True,14,text
+0302.84,00 -- Seabass (Dicentrarchus spp.)     kg 03419,20%,Free,15%,Free,,,2,00 -- Seabass (Dicentrarchus spp.)     kg 03419,True,14,text
+0302.85,00 -- Seabream (Sparidae)     kg 03419,20%,Free,15%,Free,,,2,00 -- Seabream (Sparidae)     kg 03419,True,14,text
+0302.89,10 ---Barramundi,,,,,,,2,10 ---Barramundi,False,14,text
+0302.89,20 ---Barracuda,,,,,,,2,20 ---Barracuda,False,14,text
+0302.89,30 ---Barracouta,,,,,,,2,30 ---Barracouta,False,14,text
+0302.89,90 ---Other,,,,,,,2,90 ---Other,False,14,text
+0302.91,"00 --Livers, roes and milt     kg 03419",20%,Free,15%,Free,,,2,"00 --Livers, roes and milt     kg 03419",True,15,text
+0302.92,00 --Shark fins     kg 03419,20%,Free,15%,Free,,,2,00 --Shark fins     kg 03419,True,15,text
+0302.99,00 --Other     kg 03419,20%,Free,15%,Free,,,2,00 --Other     kg 03419,True,15,text
+03.03,"03.03 Fish, frozen, excluding fish",,,,,,,2,"03.03 Fish, frozen, excluding fish",False,15,text
+03.04,03.04.,,,,,,,2,03.04.,False,15,text
+0303.99,:,,,,,,,2,:,False,15,text
+0303.11,00 - Sockeye salmon(red salmon)     kg 03421,20%,Free,15%,Free,,,2,00 - Sockeye salmon(red salmon)     kg 03421,True,15,text
+0303.12,00 -- Other Pacific salmon     kg 03421,20%,Free,15%,Free,,,2,00 -- Other Pacific salmon     kg 03421,True,15,text
+0303.13,00 -- Atlantic salmon (Salmo salar)     kg 03421,20%,Free,15%,Free,,,2,00 -- Atlantic salmon (Salmo salar)     kg 03421,True,15,text
+0303.14,"00 -- Trout (Salmo trutta,     kg 03421",20%,Free,15%,Free,,,2,"00 -- Trout (Salmo trutta,     kg 03421",True,15,text
+0303.19,00 - - Other     kg 03421,20%,Free,15%,Free,,,2,00 - - Other     kg 03421,True,15,text
+0303.23,00 -- Tilapias (Oreochromis spp.)     kg 03421,20%,Free,15%,Free,,,2,00 -- Tilapias (Oreochromis spp.)     kg 03421,True,15,text
+0303.24,"00 -- Catfish (Pangasius spp., Silurus     kg 03421",20%,Free,15%,Free,,,2,"00 -- Catfish (Pangasius spp., Silurus     kg 03421",True,15,text
+0303.25,"00 -- Carp (Cyprinus spp., Carassius     kg 03421",20%,Free,15%,Free,,,2,"00 -- Carp (Cyprinus spp., Carassius     kg 03421",True,16,text
+0303.26,00 -- Eels (Anguilla spp.)     kg 03421,20%,Free,15%,Free,,,2,00 -- Eels (Anguilla spp.)     kg 03421,True,16,text
+0303.29,00 - - Other     kg 03421,20%,Free,15%,Free,,,2,00 - - Other     kg 03421,True,16,text
+0303.31,00 - - Halibut (Reinhardtius     kg 03422,20%,Free,15%,Free,,,2,00 - - Halibut (Reinhardtius     kg 03422,True,16,text
+0303.32,00 - - Plaice (Pleuronectes platessa)     kg 03422,20%,Free,15%,Free,,,2,00 - - Plaice (Pleuronectes platessa)     kg 03422,True,16,text
+0303.33,00 - - Sole (Solea spp.)     kg 03422,20%,Free,15%,Free,,,2,00 - - Sole (Solea spp.)     kg 03422,True,16,text
+0303.34,00 -- Turbots (Psetta maxima)     kg 03422,20%,Free,15%,Free,,,2,00 -- Turbots (Psetta maxima)     kg 03422,True,16,text
+0303.39,00 - Other (Pago Pago)     kg 03422,20%,Free,15%,Free,,,2,00 - Other (Pago Pago)     kg 03422,True,16,text
+0303.41,00 - - Albacore or longfinned tunas     kg 03423,20%,Free,15%,Free,,,2,00 - - Albacore or longfinned tunas     kg 03423,True,16,text
+0303.42,00 - - Yellowfin tunas (Thunnus     kg 03423,20%,Free,15%,Free,,,2,00 - - Yellowfin tunas (Thunnus     kg 03423,True,16,text
+0303.43,00 - - Skipjack or stripe-bellied bonito.     kg 03423,20%,Free,15%,Free,,,2,00 - - Skipjack or stripe-bellied bonito.     kg 03423,True,16,text
+0303.44,00 - - Bigeye tunas (Thunnus obesus)     kg 03423,20%,Free,15%,Free,,,2,00 - - Bigeye tunas (Thunnus obesus)     kg 03423,True,16,text
+0303.45,00 - -Atlantic and Pacific bluefin     kg 03423,20%,Free,15%,Free,,,2,00 - -Atlantic and Pacific bluefin     kg 03423,True,16,text
+0303.46,00 - - Southern Bluefin tunas     kg 03423,20%,Free,15%,Free,,,2,00 - - Southern Bluefin tunas     kg 03423,True,16,text
+0303.49,00 -- Other     kg 03423,20%,Free,15%,Free,,,2,00 -- Other     kg 03423,True,16,text
+0303.91,to 0303.99:,,,,,,,2,to 0303.99:,False,17,text
+0303.51,"00 - - Herrings (Clupea harengus,     kg 03424",20%,Free,15%,Free,,,2,"00 - - Herrings (Clupea harengus,     kg 03424",True,17,text
+0303.53,"00 -- Sardines (Sardina pilchadus,     kg 03424",20%,Free,15%,Free,,,2,"00 -- Sardines (Sardina pilchadus,     kg 03424",True,17,text
+0303.54,"00 --Mackerel (Scomber scombrus,     kg 03424",20%,Free,15%,Free,,,2,"00 --Mackerel (Scomber scombrus,     kg 03424",True,17,text
+0303.55,00 -- Jack and horse mackerel     kg 03424,20%,Free,15%,Free,,,2,00 -- Jack and horse mackerel     kg 03424,True,17,text
+0303.56,00 -- Cobia (Rachycentron canadum)     kg 03424,20%,Free,15%,Free,,,2,00 -- Cobia (Rachycentron canadum)     kg 03424,True,17,text
+0303.57,00 -- Swordfish (Xiphias gladius)     kg 03424,20%,Free,15%,Free,,,2,00 -- Swordfish (Xiphias gladius)     kg 03424,True,17,text
+0303.59,00 --Other     kg 03424,20%,Free,15%,Free,,,2,00 --Other     kg 03424,True,17,text
+0303.63,"00 -- Cod (Gadus morhua, Gadus     kg 03425",20%,Free,15%,Free,,,2,"00 -- Cod (Gadus morhua, Gadus     kg 03425",True,17,text
+0303.64,00 -- Haddock (Melanogrammus     kg 03425,20%,Free,15%,Free,,,2,00 -- Haddock (Melanogrammus     kg 03425,True,17,text
+0303.65,00 -- Coalfish (Pollachius virens)     kg 03425,20%,Free,15%,Free,,,2,00 -- Coalfish (Pollachius virens)     kg 03425,True,17,text
+0303.66,"00 -- Hake (Merluccius spp.,     kg 03425",20%,Free,15%,Free,,,2,"00 -- Hake (Merluccius spp.,     kg 03425",True,18,text
+0303.67,00 -- Alaska Pollack (Theragra     kg 03425,20%,Free,15%,Free,,,2,00 -- Alaska Pollack (Theragra     kg 03425,True,18,text
+0303.68,00 -- Blue whitings (Micromesistius     kg 03425,20%,Free,15%,Free,,,2,00 -- Blue whitings (Micromesistius     kg 03425,True,18,text
+0303.69,00 -- Other     kg 03425,20%,Free,15%,Free,,,2,00 -- Other     kg 03425,True,18,text
+0303.91,to 0303.99 :,,,,,,,2,to 0303.99 :,False,18,text
+0303.81,00 -- Dogfish and other sharks     kg 03429,20%,Free,15%,Free,,,2,00 -- Dogfish and other sharks     kg 03429,True,18,text
+0303.82,00 -- Rays and skates (Rajidae)     kg 03429,20%,Free,15%,Free,,,2,00 -- Rays and skates (Rajidae)     kg 03429,True,18,text
+0303.83,00 -- Toothfish (Dissostichus spp.)     kg 03429,20%,Free,15%,Free,,,2,00 -- Toothfish (Dissostichus spp.)     kg 03429,True,18,text
+0303.84,00 -- Seabass (Dicentrarchus spp.)     kg 03429,20%,Free,15%,Free,,,2,00 -- Seabass (Dicentrarchus spp.)     kg 03429,True,18,text
+0303.89,10 ---Barramundi     kg 03428,20%,Free,15%,Free,,,2,10 ---Barramundi     kg 03428,True,18,text
+0303.89,20 ---Barracuda     kg 03428,20%,Free,15%,Free,,,2,20 ---Barracuda     kg 03428,True,18,text
+0303.89,30 ---Barracouta     kg 03428,20%,Free,15%,Free,,,2,30 ---Barracouta     kg 03428,True,18,text
+0303.89,90 ---Other     kg 03428,20%,Free,15%,Free,,,2,90 ---Other     kg 03428,True,18,text
+0303.91,"00 --Livers, roes and milt     kg 03429",20%,Free,15%,Free,,,2,"00 --Livers, roes and milt     kg 03429",True,18,text
+0303.92,00 --Shark fins     kg 03429,20%,Free,15%,Free,,,2,00 --Shark fins     kg 03429,True,18,text
+0303.99,00 --Other     kg 03428,20%,Free,15%,Free,,,2,00 --Other     kg 03428,True,18,text
+03.04,03.04 Fish fillets and other fish meat,,,,,,,2,03.04 Fish fillets and other fish meat,False,18,text
+0304.31,00 -- Tilapias (Oreochromis spp.)     kg 03451,20%,Free,15%,Free,,,2,00 -- Tilapias (Oreochromis spp.)     kg 03451,True,19,text
+0304.32,"00 -- Catfish (Pangasius spp., Silurus     kg 03451",20%,Free,15%,Free,,,2,"00 -- Catfish (Pangasius spp., Silurus     kg 03451",True,19,text
+0304.33,00 -- Nile Perch (Lates niloticus)     kg 03451,20%,Free,15%,Free,,,2,00 -- Nile Perch (Lates niloticus)     kg 03451,True,19,text
+0304.39,00 -- Other     kg 03451,20%,Free,15%,Free,,,2,00 -- Other     kg 03451,True,19,text
+0304.41,00 -- Pacific salmon (Oncorhynchus     kg 03451,20%,Free,15%,Free,,,2,00 -- Pacific salmon (Oncorhynchus     kg 03451,True,19,text
+0304.42,"00 -- Trout (Salmo trutta,     kg 03451",20%,Free,15%,Free,,,2,"00 -- Trout (Salmo trutta,     kg 03451",True,19,text
+0304.43,00 ---Flat fish (Pleuronectidae     kg 03451,20%,Free,15%,Free,,,2,00 ---Flat fish (Pleuronectidae     kg 03451,True,19,text
+0304.44,00 -- Fish of the families     kg 03451,20%,Free,15%,Free,,,2,00 -- Fish of the families     kg 03451,True,19,text
+0304.45,00 -- Swordfish (Xiphias gladius)     kg 03451,20%,Free,15%,Free,,,2,00 -- Swordfish (Xiphias gladius)     kg 03451,True,19,text
+0304.46,00 --Toothfish (Dissostichus spp.)     kg 03451,20%,Free,15%,Free,,,2,00 --Toothfish (Dissostichus spp.)     kg 03451,True,19,text
+0304.47,00 --Dogfish and other sharks     kg 03451,20%,Free,15%,Free,,,2,00 --Dogfish and other sharks     kg 03451,True,19,text
+0304.48,00 --Rays and skates (Rajidae)     kg 03451,20%,Free,15%,Free,,,2,00 --Rays and skates (Rajidae)     kg 03451,True,19,text
+0304.49,00 -- Other     kg 03451,20%,Free,15%,Free,,,2,00 -- Other     kg 03451,True,20,text
+0304.51,"00 -- Tilapias (Oreochromis spp.),     kg 03451",20%,Free,15%,Free,,,2,"00 -- Tilapias (Oreochromis spp.),     kg 03451",True,20,text
+0304.52,00 --Salmonidae     kg 03451,20%,Free,15%,Free,,,2,00 --Salmonidae     kg 03451,True,20,text
+0304.53,00 --Fish of the families     kg 03451,20%,Free,15%,Free,,,2,00 --Fish of the families     kg 03451,True,20,text
+0304.54,00 --Swordfish (Xiphias gladius)     kg 03451,20%,Free,15%,Free,,,2,00 --Swordfish (Xiphias gladius)     kg 03451,True,20,text
+0304.55,00 --Toothfish (Dissostichus spp.)     kg 03451,20%,Free,15%,Free,,,2,00 --Toothfish (Dissostichus spp.)     kg 03451,True,20,text
+0304.56,00 --Dogfish and other sharks     kg 03451,20%,Free,15%,Free,,,2,00 --Dogfish and other sharks     kg 03451,True,20,text
+0304.57,00 --Rays and skates (Rajidae)     kg 03451,20%,Free,15%,Free,,,2,00 --Rays and skates (Rajidae)     kg 03451,True,20,text
+0304.59,00 --Other     kg 03451,20%,Free,15%,Free,,,2,00 --Other     kg 03451,True,20,text
+0304.61,00 -- Tilapias (Oreochromis spp.)     kg 03451,20%,Free,15%,Free,,,2,00 -- Tilapias (Oreochromis spp.)     kg 03451,True,20,text
+0304.62,"00 -- Catfish (Pangasius spp., Silurus     kg 03451",20%,Free,15%,Free,,,2,"00 -- Catfish (Pangasius spp., Silurus     kg 03451",True,20,text
+0304.63,00 --Nile Perch (Lates niloticus)     kg 03451,20%,Free,15%,Free,,,2,00 --Nile Perch (Lates niloticus)     kg 03451,True,20,text
+0304.69,00 --Other     kg 03451,20%,Free,15%,Free,,,2,00 --Other     kg 03451,True,21,text
+0304.71,"00 --Cod (Gadus morhua, Gadus ogac,     kg 03451",20%,Free,15%,Free,,,2,"00 --Cod (Gadus morhua, Gadus ogac,     kg 03451",True,21,text
+0304.72,00 --Haddock (Melanogrammus     kg 03451,20%,Free,15%,Free,,,2,00 --Haddock (Melanogrammus     kg 03451,True,21,text
+0304.73,00 --Coalfish (Pollachius virens)     kg 03451,20%,Free,15%,Free,,,2,00 --Coalfish (Pollachius virens)     kg 03451,True,21,text
+0304.74,"00 --Hake (Merluccius spp., Urophycis     kg 03451",20%,Free,15%,Free,,,2,"00 --Hake (Merluccius spp., Urophycis     kg 03451",True,21,text
+0304.75,00 --Alaska Pollack (Theragra     kg 03451,20%,Free,15%,Free,,,2,00 --Alaska Pollack (Theragra     kg 03451,True,21,text
+0304.79,00 --Other     kg 03451,20%,Free,15%,Free,,,2,00 --Other     kg 03451,True,21,text
+0304.81,00 --Pacific salmon (Oncorhynchus     kg 03451,20%,Free,15%,Free,,,2,00 --Pacific salmon (Oncorhynchus     kg 03451,True,21,text
+0304.82,"00 --Trout (Salmo trutta,     kg 03441",20%,Free,15%,Free,,,2,"00 --Trout (Salmo trutta,     kg 03441",True,21,text
+0304.83,"00 --Flat fish (Pleuronectidae,     kg 03441",20%,Free,15%,Free,,,2,"00 --Flat fish (Pleuronectidae,     kg 03441",True,21,text
+0304.84,00 --Swordfish (Xiphias gladius)     kg 03441,20%,Free,15%,Free,,,2,00 --Swordfish (Xiphias gladius)     kg 03441,True,21,text
+0304.85,00 --Toothfish (Dissostichus spp.)     kg 03441,20%,Free,15%,Free,,,2,00 --Toothfish (Dissostichus spp.)     kg 03441,True,21,text
+0304.86,"00 --Herrings (clupea harengus,     kg 03441",20%,Free,15%,Free,,,2,"00 --Herrings (clupea harengus,     kg 03441",True,21,text
+0304.87,"00 --Tunas (of the genus Thunnus),     kg 03441",20%,Free,15%,Free,,,2,"00 --Tunas (of the genus Thunnus),     kg 03441",True,21,text
+0304.88,"00 --Dogfish, other sharks, rays and     kg 03441",20%,Free,15%,Free,,,2,"00 --Dogfish, other sharks, rays and     kg 03441",True,22,text
+0304.89,00 -- Other     kg 03441,20%,Free,15%,Free,,,2,00 -- Other     kg 03441,True,22,text
+0304.91,00 - - Swordfish (Xiphias gladius)     kg 03455,20%,Free,15%,Free,,,2,00 - - Swordfish (Xiphias gladius)     kg 03455,True,22,text
+0304.92,00 - - Toothfish (Dissosptichus spp.)     kg 03455,20%,Free,15%,Free,,,2,00 - - Toothfish (Dissosptichus spp.)     kg 03455,True,22,text
+0304.93,"00 --Tilapias (Oeochromis spp.),     kg 03455",20%,Free,15%,Free,,,2,"00 --Tilapias (Oeochromis spp.),     kg 03455",True,22,text
+0304.94,00 --Alaska Pollack (Theragra     kg 03455,20%,Free,15%,Free,,,2,00 --Alaska Pollack (Theragra     kg 03455,True,22,text
+0304.95,00 --Fish of the families     kg 03455,20%,Free,15%,Free,,,2,00 --Fish of the families     kg 03455,True,22,text
+0304.96,00 --Dogfish and other sharks     kg 03455,20%,Free,15%,Free,,,2,00 --Dogfish and other sharks     kg 03455,True,22,text
+0304.97,00 --Rays and skates (Rajidae)     kg 03455,20%,Free,15%,Free,,,2,00 --Rays and skates (Rajidae)     kg 03455,True,22,text
+0304.99,10 ---Barramundi     kg 03455,20%,Free,15%,Free,,,2,10 ---Barramundi     kg 03455,True,22,text
+0304.99,20 ---Barracuda     kg 03455,20%,Free,15%,Free,,,2,20 ---Barracuda     kg 03455,True,22,text
+0304.99,30 ---Barracouta     kg 03455,20%,Free,15%,Free,,,2,30 ---Barracouta     kg 03455,True,22,text
+0304.99,90 ---Other     kg 03455,20%,Free,15%,Free,,,2,90 ---Other     kg 03455,True,22,text
+03.05,"03.05 Fish, dried, salted or in brine;",,,,,,,2,"03.05 Fish, dried, salted or in brine;",False,22,text
+0305.10,"00 - Flours, meals and pellets of fish,     kg 03550",20%,Free,15%,Free,,,2,"00 - Flours, meals and pellets of fish,     kg 03550",True,22,text
+0305.20,"00 - Livers, roes and milt of fish,     kg 03540",20%,Free,15%,Free,,,2,"00 - Livers, roes and milt of fish,     kg 03540",True,23,text
+0305.31,"00 --Tilapias (Oreochromis spp.),     kg 03512",20%,Free,15%,Free,,,2,"00 --Tilapias (Oreochromis spp.),     kg 03512",True,23,text
+0305.32,00 --Fish of the families     kg 03512,20%,Free,15%,Free,,,2,00 --Fish of the families     kg 03512,True,23,text
+0305.39,00 -- Other     kg 03512,20%,Free,15%,Free,,,2,00 -- Other     kg 03512,True,23,text
+0305.41,00 - - Pacific salmon (Oncorhynchus     kg 03530,20%,Free,15%,Free,,,2,00 - - Pacific salmon (Oncorhynchus     kg 03530,True,23,text
+0305.42,00 - - Herrings (Clupea harengus     kg 03530,20%,Free,15%,Free,,,2,00 - - Herrings (Clupea harengus     kg 03530,True,23,text
+0305.43,"00 --Trout (Salmo trutta,Oncorhynchus     kg 03530",20%,Free,15%,Free,,,2,"00 --Trout (Salmo trutta,Oncorhynchus     kg 03530",True,23,text
+0305.44,"00 --Tilapias (Oreochromis spp.),     kg 03530",20%,Free,15%,Free,,,2,"00 --Tilapias (Oreochromis spp.),     kg 03530",True,24,text
+0305.49,10 ---Sardines     kg 03530,20%,Free,15%,Free,,,2,10 ---Sardines     kg 03530,True,24,text
+0305.49,20 ---Tunas     kg 03530,20%,Free,15%,Free,,,2,20 ---Tunas     kg 03530,True,24,text
+0305.49,30 ---Mackerals     kg 03530,20%,Free,15%,Free,,,2,30 ---Mackerals     kg 03530,True,24,text
+0305.49,90 ---Other     kg 03530,20%,Free,15%,Free,,,2,90 ---Other     kg 03530,True,24,text
+0305.51,"00 - - Cod (Gadus morhua, Gadu     kg 03511",20%,Free,15%,Free,,,2,"00 - - Cod (Gadus morhua, Gadu     kg 03511",True,24,text
+0305.52,"00 --Tilapias (Oreochromis spp.),     kg 03513",20%,Free,15%,Free,,,2,"00 --Tilapias (Oreochromis spp.),     kg 03513",True,24,text
+0305.53,00 -- Fish of the families     kg 03513,20%,Free,15%,Free,,,2,00 -- Fish of the families     kg 03513,True,24,text
+0305.54,"00 -- Herrings (Clupea harengus,     kg 03513",20%,Free,15%,Free,,,2,"00 -- Herrings (Clupea harengus,     kg 03513",True,25,text
+0305.59,10 ---Sardines     kg 03513,20%,Free,15%,Free,,,2,10 ---Sardines     kg 03513,True,25,text
+0305.59,20 ---Tunas     kg 03513,20%,Free,15%,Free,,,2,20 ---Tunas     kg 03513,True,25,text
+0305.59,30 ---Mackerel  F ree   kg 03513,20%,15%,Free,,,,2,30 ---Mackerel  F ree   kg 03513,True,25,text
+0305.59,40 ---Salmon     kg 03513,20%,Free,15%,Free,,,2,40 ---Salmon     kg 03513,True,25,text
+0305.59,90 ---Other     kg 03513,20%,Free,15%,Free,,,2,90 ---Other     kg 03513,True,25,text
+0305.61,"00 - - Herrings (Clupea harengus,     kg 03529",20%,Free,15%,Free,,,2,"00 - - Herrings (Clupea harengus,     kg 03529",True,25,text
+0305.62,"00 - - Cod (Gadus morhua, Gadus     kg 03521",20%,Free,15%,Free,,,2,"00 - - Cod (Gadus morhua, Gadus     kg 03521",True,25,text
+0305.63,00 - - Anchovies (Engraulis spp.)     kg 03522,20%,Free,15%,Free,,,2,00 - - Anchovies (Engraulis spp.)     kg 03522,True,25,text
+0305.64,"00 --Tilapias (oreochromis spp.),     kg 03522",20%,Free,15%,Free,,,2,"00 --Tilapias (oreochromis spp.),     kg 03522",True,25,text
+0305.69,00 --Other     kg 030619,20%,Free,15%,Free,,,2,00 --Other     kg 030619,True,26,text
+0305.71,00 --Shark fins     kg 030619,20%,Free,15%,Free,,,2,00 --Shark fins     kg 030619,True,26,text
+0305.72,"00 --Fish heads, tails and maws     kg 030619",20%,Free,15%,Free,,,2,"00 --Fish heads, tails and maws     kg 030619",True,26,text
+0305.79,00 --Other     kg 030619,20%,Free,15%,Free,,,2,00 --Other     kg 030619,True,26,text
+03.06,"03.06 Crustaceans, whether in shell or",,,,,,,2,"03.06 Crustaceans, whether in shell or",False,26,text
+0306.11,00 --Rock lobster and other sea     kg 030619,20%,Free,15%,Free,,,2,00 --Rock lobster and other sea     kg 030619,True,26,text
+0306.12,00 --Lobsters (Homarus spp.)     kg 030619,20%,Free,15%,Free,,,2,00 --Lobsters (Homarus spp.)     kg 030619,True,26,text
+0306.14,10 - - - Crabs salted or in brine     kg 030619,20%,Free,15%,Free,,,2,10 - - - Crabs salted or in brine     kg 030619,True,26,text
+0306.14,90 - - - other crabs not salted or in     kg 030619,20%,Free,15%,Free,,,2,90 - - - other crabs not salted or in     kg 030619,True,26,text
+0306.15,00 -- Norway lobsters (Nephrops     kg 03619,20%,Free,15%,Free,,,2,00 -- Norway lobsters (Nephrops     kg 03619,True,26,text
+0306.16,"10 --- Salted, frozen or in brine     kg 03611",20%,Free,15%,Free,,,2,"10 --- Salted, frozen or in brine     kg 03611",True,26,text
+0306.16,"90 --- Not salted, frozen or in brine     kg 03611",20%,Free,15%,Free,,,2,"90 --- Not salted, frozen or in brine     kg 03611",True,26,text
+0306.17,"10 --- Salted, frozen or in brine     kg 03611",20%,Free,15%,Free,,,2,"10 --- Salted, frozen or in brine     kg 03611",True,26,text
+0306.17,"90 --- Not salted, frozen or in brine     kg 03611",20%,Free,15%,Free,,,2,"90 --- Not salted, frozen or in brine     kg 03611",True,26,text
+0306.19,"10 - - - Other, including flours, meals     kg 03610",20%,Free,15%,Free,,,2,"10 - - - Other, including flours, meals     kg 03610",True,27,text
+0306.19,"90 - - - Other, including flours, meals     kg 03610",20%,Free,15%,Free,,,2,"90 - - - Other, including flours, meals     kg 03610",True,27,text
+0306.31,00 --Rock lobster and other sea     kg 03610,20%,Free,15%,Free,,,2,00 --Rock lobster and other sea     kg 03610,True,27,text
+0306.32,00 --Lobsters (Homarus spp.)     kg 03610,20%,Free,15%,Free,,,2,00 --Lobsters (Homarus spp.)     kg 03610,True,27,text
+0306.33,00 --Crabs 2 0 % F ree   kg 03610,15%,Free,,,,,2,00 --Crabs 2 0 % F ree   kg 03610,True,27,text
+0306.34,00 --Norway lobsters (Nephrops     kg 03610,20%,Free,15%,Free,,,2,00 --Norway lobsters (Nephrops     kg 03610,True,27,text
+0306.35,00 --Cold-water shrimps and prawns 2 0 %    kg 03610,Free,15%,Free,,,,2,00 --Cold-water shrimps and prawns 2 0 %    kg 03610,True,27,text
+0306.36,00 --Other shrimps and prawns     kg 03610,20%,Free,15%,Free,,,2,00 --Other shrimps and prawns     kg 03610,True,27,text
+0306.39,"00 --Other, including flours, meals and 2 0 %    kg 03610",Free,15%,Free,,,,2,"00 --Other, including flours, meals and 2 0 %    kg 03610",True,27,text
+0306.91,00 --Rock lobster and other sea     kg 03610,20%,Free,15%,Free,,,2,00 --Rock lobster and other sea     kg 03610,True,27,text
+0306.92,00 --Lobsters (Homarus spp.) 2 0 %    kg 03620,Free,15%,Free,,,,2,00 --Lobsters (Homarus spp.) 2 0 %    kg 03620,True,27,text
+0306.93,00 --Crabs 2 0 %    kg 03620,Free,15%,Free,,,,2,00 --Crabs 2 0 %    kg 03620,True,27,text
+0306.94,00 --Norway lobsters (Nephrops     kg 03620,20%,Free,15%,Free,,,2,00 --Norway lobsters (Nephrops     kg 03620,True,27,text
+0306.95,00 --Shrimps and prawns 2 0 %    kg 03620,Free,15%,Free,,,,2,00 --Shrimps and prawns 2 0 %    kg 03620,True,27,text
+0306.99,"00 --Other, including flours, meals 2 0 %    kg 03620",Free,15%,Free,,,,2,"00 --Other, including flours, meals 2 0 %    kg 03620",True,27,text
+03.07,"03.07 Molluscs, whether in shell or not,",,,,,,,2,"03.07 Molluscs, whether in shell or not,",False,27,text
+0307.11,"00 -- Live, fresh or chilled     kg 03631",20%,Free,15%,Free,,,2,"00 -- Live, fresh or chilled     kg 03631",True,28,text
+0307.12,00 --Frozen     kg 03631,20%,Free,15%,Free,,,2,00 --Frozen     kg 03631,True,28,text
+0307.19,00 -- Other     kg 03631,20%,Free,15%,Free,,,2,00 -- Other     kg 03631,True,28,text
+0307.21,"00 - - Live, fresh or chilled     kg 03635",20%,Free,15%,Free,,,2,"00 - - Live, fresh or chilled     kg 03635",True,28,text
+0307.22,00 --Frozen     kg 03635,20%,Free,15%,Free,,,2,00 --Frozen     kg 03635,True,28,text
+0307.29,00 - - Other     kg 03639,20%,Free,15%,Free,,,2,00 - - Other     kg 03639,True,28,text
+0307.31,"00 - - Live, fresh or chilled     kg 03635",20%,Free,15%,Free,,,2,"00 - - Live, fresh or chilled     kg 03635",True,28,text
+0307.32,00 --Frozen     kg 03639,20%,Free,15%,Free,,,2,00 --Frozen     kg 03639,True,28,text
+0307.39,10 ---Clams     kg 03639,20%,Free,15%,Free,,,2,10 ---Clams     kg 03639,True,28,text
+0307.39,90,,,,,,,2,90,False,28,text
+0307.42,"00 --Live, fresh or chilled     kg 03633",20%,Free,15%,Free,,,2,"00 --Live, fresh or chilled     kg 03633",True,28,text
+0307.43,00 --Frozen     kg 03633,20%,Free,15%,Free,,,2,00 --Frozen     kg 03633,True,28,text
+0307.49,00 - - Other     kg 03637,20%,Free,15%,Free,,,2,00 - - Other     kg 03637,True,28,text
+0307.51,"00 - - Live, fresh or chilled     kg 03633",20%,Free,15%,Free,,,2,"00 - - Live, fresh or chilled     kg 03633",True,28,text
+0307.52,00 --Frozen     kg 03637 and,20%,Free,15%,Free,,,2,00 --Frozen     kg 03637 and,True,28,text
+0307.59,00 - - Other     kg 03637 and,20%,Free,15%,Free,,,2,00 - - Other     kg 03637 and,True,28,text
+0307.60,"00 - Snails, other than sea snails     kg 01293and",20%,Free,15%,Free,,,2,"00 - Snails, other than sea snails     kg 01293and",True,28,text
+0307.71,"00 -- Live, fresh or chilled     kg 03635",20%,Free,15%,Free,,,2,"00 -- Live, fresh or chilled     kg 03635",True,29,text
+0307.72,00 --Frozen     kg 03639 and,20%,Free,15%,Free,,,2,00 --Frozen     kg 03639 and,True,29,text
+0307.79,00 -- Other     kg 03639 and,20%,Free,15%,Free,,,2,00 -- Other     kg 03639 and,True,29,text
+0307.81,"00 -- Live, fresh or chilled abalone     kg 03635",20%,Free,15%,Free,,,2,"00 -- Live, fresh or chilled abalone     kg 03635",True,29,text
+0307.82,"00 --Live, fresh or chilled strombood     kg 03635",20%,Free,15%,Free,,,2,"00 --Live, fresh or chilled strombood     kg 03635",True,29,text
+0307.83,00 --Frozen abalone (Haliotis spp.)     kg 03639 and,20%,Free,15%,Free,,,2,00 --Frozen abalone (Haliotis spp.)     kg 03639 and,True,29,text
+0307.84,00 --Frozen stromboid conchs     kg 03639 and,20%,Free,15%,Free,,,2,00 --Frozen stromboid conchs     kg 03639 and,True,29,text
+0307.87,00 --Other abalone (Haliotis spp.)     kg 03639 and,20%,Free,15%,Free,,,2,00 --Other abalone (Haliotis spp.)     kg 03639 and,True,29,text
+0307.88,00 --Other stromboid conchs     kg 03639 and,20%,Free,15%,Free,,,2,00 --Other stromboid conchs     kg 03639 and,True,29,text
+0307.91,"00 - - Live, fresh or chilled     kg 03635",20%,Free,15%,Free,,,2,"00 - - Live, fresh or chilled     kg 03635",True,29,text
+0307.92,00 --Frozen     kg 03639 and,20%,Free,15%,Free,,,2,00 --Frozen     kg 03639 and,True,29,text
+0307.99,00 - - Other     kg 03639 and,20%,Free,15%,Free,,,2,00 - - Other     kg 03639 and,True,29,text
+03.08,03.08 Aquatic invertebrates other than,,,,,,,2,03.08 Aquatic invertebrates other than,False,29,text
+0308.11,"00 -- Live, fresh or chilled     kg 03635",20%,Free,15%,Free,,,2,"00 -- Live, fresh or chilled     kg 03635",True,29,text
+0308.12,00 --Frozen     kg 03639 and,20%,Free,15%,Free,,,2,00 --Frozen     kg 03639 and,True,29,text
+0308.19,00 Other     kg 03639 and,20%,Free,15%,Free,,,2,00 Other     kg 03639 and,True,30,text
+0308.21,"00 -- Live, fresh or chilled     kg 03635",20%,Free,15%,Free,,,2,"00 -- Live, fresh or chilled     kg 03635",True,30,text
+0308.22,00 --Frozen     kg 03639 and,20%,Free,15%,Free,,,2,00 --Frozen     kg 03639 and,True,30,text
+0308.29,00 -- Other     kg 03639 and,20%,Free,15%,Free,,,2,00 -- Other     kg 03639 and,True,30,text
+0308.30,00 - Jellyfish (Rhopilema spp.)     kg 03639 and,20%,Free,15%,Free,,,2,00 - Jellyfish (Rhopilema spp.)     kg 03639 and,True,30,text
+0308.90,10 ---Seahorse     kg 03635,20%,Free,15%,Free,,,2,10 ---Seahorse     kg 03635,True,30,text
+0308.90,90 ---Other     kg 03635,20%,Free,15%,Free,,,2,90 ---Other     kg 03635,True,30,text
+04.01,"04.01 Milk and cream, not concentrated",,,,,,,2,"04.01 Milk and cream, not concentrated",False,32,text
+0401.10,10 --- Milk     kg 02212,5%,Free,15%,Free,,,2,10 --- Milk     kg 02212,True,32,text
+0401.10,90 --- Cream 5 % F r e e 1 5 % F r e e kg 02212,,,,,,,2,90 --- Cream 5 % F r e e 1 5 % F r e e kg 02212,False,32,text
+0401.20,10 ---Milk     kg 02212,Free,Free,15%,Free,,,2,10 ---Milk     kg 02212,True,32,text
+0401.20,90 ---Cream     kg 02212,5%,Free,15%,Free,,,2,90 ---Cream     kg 02212,True,32,text
+0401.40,10 ---Milk     kg 02213,Free,Free,15%,Free,,,2,10 ---Milk     kg 02213,True,32,text
+0401.40,90 ---Other     kg 02213,5%,Free,15%,Free,,,2,90 ---Other     kg 02213,True,32,text
+0401.50,10 ---Milk     kg 02213,Free,Free,15%,Free,,,2,10 ---Milk     kg 02213,True,32,text
+0401.50,90 ---Other     kg 02213,5%,Free,15%,Free,,,2,90 ---Other     kg 02213,True,32,text
+04.02,"04.02 Milk and cream, concentrated or",,,,,,,2,"04.02 Milk and cream, concentrated or",False,32,text
+0402.10,10 - - - Milk     kg 02221,Free,Free,15%,Free,,,2,10 - - - Milk     kg 02221,True,32,text
+0402.10,20 - - - Cream     kg 02221,5%,Free,15%,Free,,,2,20 - - - Cream     kg 02221,True,32,text
+0402.21,00 - - Not containing added sugar or     kg 02221,5%,Free,15%,Free,,,2,00 - - Not containing added sugar or     kg 02221,True,32,text
+0402.29,10 - - - Cream     kg 02222,5%,Free,15%,Free,,,2,10 - - - Cream     kg 02222,True,32,text
+0402.29,90 - - - Other     kg 02222,Free,Free,15%,Free,,,2,90 - - - Other     kg 02222,True,32,text
+0402.91,10 ---Evaporated milk     kg 02223,Free,Free,15%,Free,,,2,10 ---Evaporated milk     kg 02223,True,33,text
+0402.91,20 ---Condensed milk     kg 02223,Free,Free,15%,Free,,,2,20 ---Condensed milk     kg 02223,True,33,text
+0402.91,90 ---Other     kg 02223,Free,Free,15%,Free,,,2,90 ---Other     kg 02223,True,33,text
+0402.99,00 -- Other:,,,,,,,2,00 -- Other:,False,33,text
+04.03,"04.03 Buttermilk, curdled milk and",,,,,,,2,"04.03 Buttermilk, curdled milk and",False,33,text
+0403.10,10 ---Natural yogurt     kg 02231,5%,Free,15%,Free,,,2,10 ---Natural yogurt     kg 02231,True,33,text
+0403.10,90 ---Other     kg 02231,5%,Free,15%,Free,,,2,90 ---Other     kg 02231,True,33,text
+0403.90,00 - Other     kg 02232,5%,Free,15%,Free,,,2,00 - Other     kg 02232,True,33,text
+04.04,"04.04 Whey, whether or not concentrated",,,,,,,2,"04.04 Whey, whether or not concentrated",False,33,text
+0404.10,10 - - - Containing added sugar     kg 02241,5%,Free,15%,Free,,,2,10 - - - Containing added sugar     kg 02241,True,33,text
+0404.10,90 - - - Other     kg 02241,5%,Free,15%,Free,,,2,90 - - - Other     kg 02241,True,33,text
+0404.90,10 - - - Containing added sugar or     kg 02249,5%,Free,15%,Free,,,2,10 - - - Containing added sugar or     kg 02249,True,33,text
+0404.90,90 - - - Other     kg 02249,5%,Free,15%,Free,,,2,90 - - - Other     kg 02249,True,33,text
+04.05,04.05 Butter and other fats and oils,,,,,,,2,04.05 Butter and other fats and oils,False,33,text
+0405.10,00 - Butter     kg 02300,8%,Free,15%,Free,,,2,00 - Butter     kg 02300,True,33,text
+0405.20,00 - Dairy spreads     kg 09899,8%,Free,15%,Free,,,2,00 - Dairy spreads     kg 09899,True,34,text
+0405.90,10,,,,,,,2,10,False,34,text
+0405.90,90 --- Other     kg 02300,8%,Free,15%,Free,,,2,90 --- Other     kg 02300,True,34,text
+04.06,04.06 Cheese and curd.,,,,,,,2,04.06 Cheese and curd.,False,34,text
+0406.10,00 - Fresh (unripened or uncured)     kg 02491,8%,Free,15%,Free,,,2,00 - Fresh (unripened or uncured)     kg 02491,True,34,text
+0406.20,"00 - Grated or powdered cheese, of     kg 02410",8%,Free,15%,Free,,,2,"00 - Grated or powdered cheese, of     kg 02410",True,34,text
+0406.30,"00 - Processed cheese, not grated or     kg 02420",8%,Free,15%,Free,,,2,"00 - Processed cheese, not grated or     kg 02420",True,34,text
+0406.40,00 - Blue-veined cheese and other     kg 02430,8%,Free,15%,Free,,,2,00 - Blue-veined cheese and other     kg 02430,True,34,text
+0406.90,00 - Other cheese     kg 02499,8%,Free,15%,Free,,,2,00 - Other cheese     kg 02499,True,34,text
+04.07,"04.07 Birds' eggs, in shell, fresh,",,,,,,,2,"04.07 Birds' eggs, in shell, fresh,",False,34,text
+0407.11,00 --Of fowls of the species Gallus     doz 02510,20%,Free,15%,Free,,,2,00 --Of fowls of the species Gallus     doz 02510,True,34,text
+0407.19,00 --Other     doz 02510,20%,Free,15%,Free,,,2,00 --Other     doz 02510,True,34,text
+0407.21,00 --Of fowls of the species Gallus     doz 02510,20%,Free,15%,Free,,,2,00 --Of fowls of the species Gallus     doz 02510,True,34,text
+0407.29,10 --- Other not fertilized     doz 02510,20%,Free,15%,Free,,,2,10 --- Other not fertilized     doz 02510,True,34,text
+0407.29,90 ---Fertilized     doz 02510,20%,Free,15%,Free,,,2,90 ---Fertilized     doz 02510,True,34,text
+0407.90,00 - Others     doz 02510,20%,Free,15%,Free,,,2,00 - Others     doz 02510,True,34,text
+04.08,"04.08 Birds' eggs, not in shell, and egg",,,,,,,2,"04.08 Birds' eggs, not in shell, and egg",False,34,text
+0408.11,00 - - Dried     kg 02521,8%,Free,15%,Free,,,2,00 - - Dried     kg 02521,True,35,text
+0408.19,00 --Other,,,,,,,2,00 --Other,False,35,text
+0408.91,00 - - Dried     kg 02521,8%,Free,15%,Free,,,2,00 - - Dried     kg 02521,True,35,text
+0408.99,00 - - Other     kg 02522,8%,Free,15%,Free,,,2,00 - - Other     kg 02522,True,35,text
+0409.00,00 Natural honey.     kg 06160,20%,Free,15%,Free,,,2,00 Natural honey.     kg 06160,True,35,text
+0410.00,"00 Edible products of animal origin,     kg 09892",20%,Free,15%,Free,,,2,"00 Edible products of animal origin,     kg 09892",True,35,text
+0501.00,"00 Human hair, unworked, whether     kg 29191",8%,Free,15%,Free,,,2,"00 Human hair, unworked, whether     kg 29191",True,36,text
+05.02,"05.02 Pigs', hogs' or boars' bristles and",,,,,,,2,"05.02 Pigs', hogs' or boars' bristles and",False,36,text
+0502.10,"00 - Pigs', hogs' or boars' bristles and     kg 29192",8%,Free,15%,Free,,,2,"00 - Pigs', hogs' or boars' bristles and     kg 29192",True,36,text
+0502.90,00 - Other     kg 29192,8%,Free,15%,Free,,,2,00 - Other     kg 29192,True,36,text
+0504.00,"00 Guts, bladders and stomachs of     kg 29193",8%,Free,15%,Free,,,2,"00 Guts, bladders and stomachs of     kg 29193",True,36,text
+05.05,"05.05 Skins and other parts of birds, with",,,,,,,2,"05.05 Skins and other parts of birds, with",False,36,text
+0505.10,00 - Feathers of a kind used for     kg 29195,8%,Free,15%,Free,,,2,00 - Feathers of a kind used for     kg 29195,True,36,text
+0505.90,00 - Other     kg 29195,8%,Free,15%,Free,,,2,00 - Other     kg 29195,True,37,text
+05.06,"05.06 Bones and horn-cores, unworked,",,,,,,,2,"05.06 Bones and horn-cores, unworked,",False,37,text
+0506.10,00 - Ossein and bones treated with     kg 29111,8%,Free,15%,Free,,,2,00 - Ossein and bones treated with     kg 29111,True,37,text
+0506.90,00 - Other     kg 29111,8%,Free,15%,Free,,,2,00 - Other     kg 29111,True,37,text
+05.07,"05.07 Ivory, tortoise-shell, whalebone and",,,,,,,2,"05.07 Ivory, tortoise-shell, whalebone and",False,37,text
+0507.10,00 - Ivory; ivory powder and waste     kg 29116,8%,Free,15%,Free,,,2,00 - Ivory; ivory powder and waste     kg 29116,True,37,text
+0507.90,10 ---Tortoiseshell     kg 29116,8%,Free,15%,Free,,,2,10 ---Tortoiseshell     kg 29116,True,37,text
+0507.90,90 ---Other     kg 29116,8%,Free,15%,Free,,,2,90 ---Other     kg 29116,True,37,text
+05.08,"05.08 Coral and similar materials,",,,,,,,2,"05.08 Coral and similar materials,",False,37,text
+0508.00,10 --- Coral and similar materials     kg 29115,8%,Free,15%,Free,,,2,10 --- Coral and similar materials     kg 29115,True,37,text
+0508.00,20 --- Sea fan     kg 29115,8%,Free,15%,Free,,,2,20 --- Sea fan     kg 29115,True,37,text
+0508.00,30 --- Shells:     kg 29115,8%,Free,15%,Free,,,2,30 --- Shells:     kg 29115,True,37,text
+0508.00,31 ----Trochus shell     kg 29115,8%,Free,15%,Free,,,2,31 ----Trochus shell     kg 29115,True,37,text
+0508.00,32 ----Mother of pearl shell     kg 29115,8%,Free,15%,Free,,,2,32 ----Mother of pearl shell     kg 29115,True,37,text
+0508.00,33 ---- Green snail money     kg 29115,8%,Free,15%,Free,,,2,33 ---- Green snail money     kg 29115,True,37,text
+0508.00,"34 ----Shell money, unworked or     kg 29115",8%,Free,15%,Free,,,2,"34 ----Shell money, unworked or     kg 29115",True,37,text
+0508.00,39 ----Other shell     kg 29115,8%,Free,15%,Free,,,2,39 ----Other shell     kg 29115,True,37,text
+0508.00,90 ---Other     kg 29115,8%,Free,15%,Free,,,2,90 ---Other     kg 29115,True,37,text
+0510.00,"00 Ambergris, castoreum, civet and     kg 29198",8%,Free,15%,Free,,,2,"00 Ambergris, castoreum, civet and     kg 29198",True,38,text
+05.11,05.11 Animal products not elsewhere,,,,,,,2,05.11 Animal products not elsewhere,False,38,text
+0511.10,00 - Bovine semen     kg 29194,8%,Free,15%,Free,,,2,00 - Bovine semen     kg 29194,True,38,text
+0511.91,"00 - - Products of fish or crustaceans,     kg 29196",8%,Free,15%,Free,,,2,"00 - - Products of fish or crustaceans,     kg 29196",True,38,text
+0511.99,10,,,,,,,2,10,False,38,text
+0511.99,20 ---Fertile fish eggs for hatching     kg 29199,8%,Free,15%,Free,,,2,20 ---Fertile fish eggs for hatching     kg 29199,True,38,text
+0511.99,30 ---Silkworm eggs     kg 29199,8%,Free,15%,Free,,,2,30 ---Silkworm eggs     kg 29199,True,38,text
+0511.99,90 ---Other     kg 29199,8%,Free,15%,Free,,,2,90 ---Other     kg 29199,True,38,text
+06.01,"06.01 Bulbs, tubers, tuberous roots, corms,",,,,,,,2,"06.01 Bulbs, tubers, tuberous roots, corms,",False,39,text
+0601.10,"00 - Bulbs, tubers, tuberous roots,     kg 29261",20%,Free,15%,Free,,,2,"00 - Bulbs, tubers, tuberous roots,     kg 29261",True,39,text
+0601.20,"00 - Bulbs, tubers, tuberous roots,     kg 29261",20%,Free,15%,Free,,,2,"00 - Bulbs, tubers, tuberous roots,     kg 29261",True,39,text
+06.02,06.02 Other live plants,,,,,,,2,06.02 Other live plants,False,39,text
+0602.10,00 - Unrooted cuttings and slips     kg 29269,20%,Free,15%,Free,,,2,00 - Unrooted cuttings and slips     kg 29269,True,39,text
+0602.20,"00 - Trees, shrubs and bushes,     kg 29269",20%,Free,15%,Free,,,2,"00 - Trees, shrubs and bushes,     kg 29269",True,39,text
+0602.30,"00 - Rhododendrons and azaleas,     kg 29269",20%,Free,15%,Free,,,2,"00 - Rhododendrons and azaleas,     kg 29269",True,39,text
+0602.40,"00 - Roses, grafted or not     kg 29269",20%,Free,15%,Free,,,2,"00 - Roses, grafted or not     kg 29269",True,39,text
+0602.90,00 - Other     kg 29269,20%,Free,15%,Free,,,2,00 - Other     kg 29269,True,40,text
+06.03,06.03 Cut flowers and flower buds of a,,,,,,,2,06.03 Cut flowers and flower buds of a,False,40,text
+0603.11,00 - - Roses     kg 29271,20%,Free,15%,Free,,,2,00 - - Roses     kg 29271,True,40,text
+0603.12,00 - - Carnations     kg 29271,20%,Free,15%,Free,,,2,00 - - Carnations     kg 29271,True,40,text
+0603.13,00 - - Orchids     kg 29271,20%,Free,15%,Free,,,2,00 - - Orchids     kg 29271,True,40,text
+0603.14,00 - - Chrysanthemums     kg 29271,20%,Free,15%,Free,,,2,00 - - Chrysanthemums     kg 29271,True,40,text
+0603.15,00 -- Lilies (Lilium spp.)     kg 29271,20%,Free,15%,Free,,,2,00 -- Lilies (Lilium spp.)     kg 29271,True,40,text
+0603.19,00 - - Other     kg 29271,20%,Free,15%,Free,,,2,00 - - Other     kg 29271,True,40,text
+0603.90,00 - Other     kg 29271,20%,Free,15%,Free,,,2,00 - Other     kg 29271,True,40,text
+06.04,"06.04 Foliage, branches and other parts of",,,,,,,2,"06.04 Foliage, branches and other parts of",False,40,text
+0604.20,00 - Fresh     kg 29272,20%,Free,15%,Free,,,2,00 - Fresh     kg 29272,True,40,text
+0604.90,00 -Other     kg 29272,20%,Free,15%,Free,,,2,00 -Other     kg 29272,True,40,text
+07.01,"07.01 Potatoes, fresh or chilled.",,,,,,,2,"07.01 Potatoes, fresh or chilled.",False,41,text
+0701.10,00 - Seed     kg 05410,5%,Free,15%,Free,,,2,00 - Seed     kg 05410,True,41,text
+0701.90,00 - Other     kg 05410,20%,Free,15%,Free,,,2,00 - Other     kg 05410,True,41,text
+0702.00,"00 Tomatoes, fresh or chilled.     kg 05440",20%,Free,15%,Free,,,2,"00 Tomatoes, fresh or chilled.     kg 05440",True,41,text
+07.03,"07.03 Onions, shallots, garlic, leeks and",,,,,,,2,"07.03 Onions, shallots, garlic, leeks and",False,41,text
+0703.10,00 - Onions and shallots     kg 05451,Free,Free,15%,Free,,,2,00 - Onions and shallots     kg 05451,True,41,text
+0703.20,00 - Garlic     kg 05452,20%,Free,15%,Free,,,2,00 - Garlic     kg 05452,True,41,text
+0703.90,00 - Leeks and other alliaceous     kg 05452,20%,Free,15%,Free,,,2,00 - Leeks and other alliaceous     kg 05452,True,41,text
+07.04,"07.04 Cabbages, cauliflowers, kohlrabi,",,,,,,,2,"07.04 Cabbages, cauliflowers, kohlrabi,",False,41,text
+0704.10,00 - Cauliflowers and headed     kg 05453,20%,Free,15%,Free,,,2,00 - Cauliflowers and headed     kg 05453,True,41,text
+0704.20,00 - Brussels sprouts     kg 05453,20%,Free,15%,Free,,,2,00 - Brussels sprouts     kg 05453,True,41,text
+0704.90,10 ---Cabbages     kg 05453,20%,Free,15%,Free,,,2,10 ---Cabbages     kg 05453,True,41,text
+0704.90,91 ----Leafy vegetables     kg 05453,20%,Free,15%,Free,,,2,91 ----Leafy vegetables     kg 05453,True,42,text
+0704.90,92 ----Taro leaves     kg 05453,20%,Free,15%,Free,,,2,92 ----Taro leaves     kg 05453,True,42,text
+0704.90,"93 ----Pele (bele, slippery cabbage,     kg 05453",20%,Free,15%,Free,,,2,"93 ----Pele (bele, slippery cabbage,     kg 05453",True,42,text
+0704.90,94 --- Other leafy vegetables     kg 05453,20%,Free,15%,Free,,,2,94 --- Other leafy vegetables     kg 05453,True,42,text
+0704.90,99 ---Other     kg 05453,20%,Free,15%,Free,,,2,99 ---Other     kg 05453,True,42,text
+07.05,07.05 Lettuce (Lactuca sativa) and,,,,,,,2,07.05 Lettuce (Lactuca sativa) and,False,42,text
+0705.11,00 - - Cabbage lettuce (head lettuce)     kg 05454,20%,Free,15%,Free,,,2,00 - - Cabbage lettuce (head lettuce)     kg 05454,True,42,text
+0705.19,00 - - Other     kg 05454,20%,Free,15%,Free,,,2,00 - - Other     kg 05454,True,42,text
+0705.21,00 - - Witloof chicory (Cichorium     kg 05454,20%,Free,15%,Free,,,2,00 - - Witloof chicory (Cichorium     kg 05454,True,42,text
+0705.29,00 - - Other     kg 05454,20%,Free,15%,Free,,,2,00 - - Other     kg 05454,True,42,text
+07.06,"07.06 Carrots, turnips, salad beetroot,",,,,,,,2,"07.06 Carrots, turnips, salad beetroot,",False,42,text
+0706.10,00 - Carrots and turnips     kg 05455,20%,Free,15%,Free,,,2,00 - Carrots and turnips     kg 05455,True,42,text
+0706.90,00 - Other     kg 05455,20%,Free,15%,Free,,,2,00 - Other     kg 05455,True,42,text
+0707.00,"00 Cucumbers and gherkins, fresh or     kg 05456",20%,Free,15%,Free,,,2,"00 Cucumbers and gherkins, fresh or     kg 05456",True,42,text
+07.08,"07.08 Leguminous vegetables, shelled or",,,,,,,2,"07.08 Leguminous vegetables, shelled or",False,42,text
+0708.10,00 - Peas (Pisum sativum)     kg 05457,20%,Free,15%,Free,,,2,00 - Peas (Pisum sativum)     kg 05457,True,42,text
+0708.20,"00 - Beans (Vigna spp., Phaseolus     kg 05457",20%,Free,15%,Free,,,2,"00 - Beans (Vigna spp., Phaseolus     kg 05457",True,42,text
+0708.90,00 - Other leguminous vegetables     kg 05457,20%,Free,15%,Free,,,2,00 - Other leguminous vegetables     kg 05457,True,42,text
+07.09,"07.09 Other vegetables, fresh or chilled.",,,,,,,2,"07.09 Other vegetables, fresh or chilled.",False,42,text
+0709.20,00 - Asparagus     kg 05459,20%,Free,15%,Free,,,2,00 - Asparagus     kg 05459,True,42,text
+0709.30,00 - Aubergines (egg-plants)     kg 05459,20%,Free,15%,Free,,,2,00 - Aubergines (egg-plants)     kg 05459,True,42,text
+0709.40,00 - Celery other than celeriac     kg 05459,20%,Free,15%,Free,,,2,00 - Celery other than celeriac     kg 05459,True,42,text
+0709.51,00 - - Mushrooms of the genus     kg 05458,20%,Free,15%,Free,,,2,00 - - Mushrooms of the genus     kg 05458,True,43,text
+0709.59,00 - - Other     kg 05458,20%,Free,15%,Free,,,2,00 - - Other     kg 05458,True,43,text
+0709.60,00 - Fruits of the genus Capsicum     kg 05459,20%,Free,15%,Free,,,2,00 - Fruits of the genus Capsicum     kg 05459,True,43,text
+0709.70,"00 - Spinach, New Zealand spinach     kg 05459",20%,Free,15%,Free,,,2,"00 - Spinach, New Zealand spinach     kg 05459",True,43,text
+0709.91,00 --Globe artichokes    F r e e kg 05459,20%,Free,15%,,,,2,00 --Globe artichokes    F r e e kg 05459,True,43,text
+0709.92,00 -- Olives 2 0 %    kg 05459,Free,15%,Free,,,,2,00 -- Olives 2 0 %    kg 05459,True,43,text
+0709.93,"00 -- Pumpkins, squash and gourds     kg 05459",20%,Free,15%,Free,,,2,"00 -- Pumpkins, squash and gourds     kg 05459",True,43,text
+0709.99,10 ---Betel leaves (Korokua)     kg 05459,20%,Free,15%,Free,,,2,10 ---Betel leaves (Korokua)     kg 05459,True,43,text
+0709.99,20 ---Bamboo shoots     kg 05459,20%,Free,15%,Free,,,2,20 ---Bamboo shoots     kg 05459,True,43,text
+0708.99,30 ---Soya bean sprouts     kg 05459,20%,Free,15%,Free,,,2,30 ---Soya bean sprouts     kg 05459,True,43,text
+0709.99,90 ---Other     kg 05459,20%,Free,15%,Free,,,2,90 ---Other     kg 05459,True,43,text
+07.10,07.10 Vegetables (uncooked or cooked by,,,,,,,2,07.10 Vegetables (uncooked or cooked by,False,43,text
+0710.10,00 - Potatoes     kg 05469,20%,Free,15%,Free,,,2,00 - Potatoes     kg 05469,True,43,text
+0710.21,00 - - Peas (Pisum sativum)     kg 05469,20%,Free,15%,Free,,,2,00 - - Peas (Pisum sativum)     kg 05469,True,43,text
+0710.22,"00 - - Beans (Vigna spp., Phaseolus     kg 05469",20%,Free,15%,Free,,,2,"00 - - Beans (Vigna spp., Phaseolus     kg 05469",True,43,text
+0710.29,00 - - Other     kg 05469,20%,Free,15%,Free,,,2,00 - - Other     kg 05469,True,43,text
+0710.30,"00 - Spinach, New Zealand spinach     kg 05469",20%,Free,15%,Free,,,2,"00 - Spinach, New Zealand spinach     kg 05469",True,43,text
+0710.40,00 - Sweet corn     kg 05461,20%,Free,15%,Free,,,2,00 - Sweet corn     kg 05461,True,43,text
+0710.80,00 - Other vegetables     kg 05469,20%,Free,15%,Free,,,2,00 - Other vegetables     kg 05469,True,43,text
+0710.90,00 - Mixtures of vegetables     kg 05469,20%,Free,15%,Free,,,2,00 - Mixtures of vegetables     kg 05469,True,43,text
+07.11,07.11 Vegetables provisionally,,,,,,,2,07.11 Vegetables provisionally,False,44,text
+0711.20,00 - Olives     kg 05470,20%,Free,15%,Free,,,2,00 - Olives     kg 05470,True,44,text
+0711.40,00 - Cucumbers and gherkins     kg 05470,20%,Free,15%,Free,,,2,00 - Cucumbers and gherkins     kg 05470,True,44,text
+0711.51,00 - - Mushrooms of the genus     kg 05470,20%,Free,15%,Free,,,2,00 - - Mushrooms of the genus     kg 05470,True,44,text
+0711.59,00 - - Other     kg 05470,20%,Free,15%,Free,,,2,00 - - Other     kg 05470,True,44,text
+0711.90,00 - Other vegetables; mixtures of     kg 05470,20%,Free,15%,Free,,,2,00 - Other vegetables; mixtures of     kg 05470,True,44,text
+07.12,"07.12 Dried vegetables, whole, cut, sliced,",,,,,,,2,"07.12 Dried vegetables, whole, cut, sliced,",False,44,text
+0712.20,00 - Onions     kg 05612,20%,Free,15%,Free,,,2,00 - Onions     kg 05612,True,44,text
+0712.31,00 - - Mushrooms of the genus     kg 05613,20%,Free,15%,Free,,,2,00 - - Mushrooms of the genus     kg 05613,True,44,text
+0712.32,00 - - Wood ears ( Auricularia spp.)     kg 05613,20%,Free,15%,Free,,,2,00 - - Wood ears ( Auricularia spp.)     kg 05613,True,44,text
+0712.33,00 - - Jelly fungi (Tremella spp.)     kg 05613,20%,Free,15%,Free,,,2,00 - - Jelly fungi (Tremella spp.)     kg 05613,True,44,text
+0712.39,00 - - Other     kg 05613,20%,Free,15%,Free,,,2,00 - - Other     kg 05613,True,44,text
+0712.90,00 - Other vegetables; mixtures of     kg 05619,20%,Free,15%,Free,,,2,00 - Other vegetables; mixtures of     kg 05619,True,44,text
+07.13,"07.13 Dried leguminous vegetables,",,,,,,,2,"07.13 Dried leguminous vegetables,",False,44,text
+0713.10,10,,,,,,,2,10,False,44,text
+0713.10,90 ---Other     kg 05421,20%,Free,15%,Free,,,2,90 ---Other     kg 05421,True,44,text
+0713.20,00 - Chickpeas (garbanzos)     kg 05422,20%,Free,15%,Free,,,2,00 - Chickpeas (garbanzos)     kg 05422,True,44,text
+0713.31,00 - - Beans of the species Vigna     kg 05423,20%,Free,15%,Free,,,2,00 - - Beans of the species Vigna     kg 05423,True,45,text
+0713.32,00 - - Small red (Adzuki) beans     kg 05423,20%,Free,15%,Free,,,2,00 - - Small red (Adzuki) beans     kg 05423,True,45,text
+0713.33,"00 - - Kidney beans, including     kg 05423",20%,Free,15%,Free,,,2,"00 - - Kidney beans, including     kg 05423",True,45,text
+0713.34,00 -- Bambara beans (Vigna     kg 05423,20%,Free,15%,Free,,,2,00 -- Bambara beans (Vigna     kg 05423,True,45,text
+0713.35,00 -- Cow peas (Vigna unguiculata)     kg 05424,20%,Free,15%,Free,,,2,00 -- Cow peas (Vigna unguiculata)     kg 05424,True,45,text
+0713.39,00 - - Other     kg 05423,20%,Free,15%,Free,,,2,00 - - Other     kg 05423,True,45,text
+0713.40,00 - Lentils     kg 05424,20%,Free,15%,Free,,,2,00 - Lentils     kg 05424,True,45,text
+0713.50,00 - Broad beans (Vicia faba var.     kg 05425,20%,Free,15%,Free,,,2,00 - Broad beans (Vicia faba var.     kg 05425,True,45,text
+0713.60,00 -Pigeon peas (Cajanus cajan)     kg 05426,20%,Free,15%,Free,,,2,00 -Pigeon peas (Cajanus cajan)     kg 05426,True,45,text
+0713.90,00 - Other     kg 05429,20%,Free,15%,Free,,,2,00 - Other     kg 05429,True,45,text
+07.14,"07.14 Manioc, arrowroot, salep, Jerusalem",,,,,,,2,"07.14 Manioc, arrowroot, salep, Jerusalem",False,45,text
+0714.10,00 - Manioc (cassava)     kg 05481,20%,Free,15%,Free,,,2,00 - Manioc (cassava)     kg 05481,True,45,text
+0714.20,00 - Sweet potatoes     kg 05483,20%,Free,15%,Free,,,2,00 - Sweet potatoes     kg 05483,True,45,text
+0714.30,00 - Yams (Dioscorea spp.)     kg 05483,20%,Free,15%,Free,,,2,00 - Yams (Dioscorea spp.)     kg 05483,True,45,text
+0714.40,00 - Taro (Colocasia spp.)     kg 05483,20%,Free,15%,Free,,,2,00 - Taro (Colocasia spp.)     kg 05483,True,45,text
+0714.50,00 - Yautia (Xanthosoma spp.)     kg 05483,20%,Free,15%,Free,,,2,00 - Yautia (Xanthosoma spp.)     kg 05483,True,45,text
+0714.90,10 --- Taamu (pana):     kg 05483,20%,Free,15%,Free,,,2,10 --- Taamu (pana):     kg 05483,True,45,text
+0714.90,90 ---Others     kg 05483,20%,Free,15%,Free,,,2,90 ---Others     kg 05483,True,45,text
+08.01,"08.01 Coconuts, Brazil nuts and cashew",,,,,,,2,"08.01 Coconuts, Brazil nuts and cashew",False,46,text
+0801.11,00 - - Desiccated     kg 05771,20%,Free,15%,Free,,,2,00 - - Desiccated     kg 05771,True,46,text
+0801.12,00 -- In the inner shell (endocarp)     kg 05771,20%,Free,15%,Free,,,2,00 -- In the inner shell (endocarp)     kg 05771,True,46,text
+0801.19,10 --- Fresh (Drinking coconut)     kg 05771,20%,Free,15%,Free,,,2,10 --- Fresh (Drinking coconut)     kg 05771,True,46,text
+0801.19,20 ---Coconuts     kg,20%,Free,15%,Free,,,2,20 ---Coconuts     kg,True,46,text
+0801.19,90 ---Other     kg 05771,20%,Free,15%,Free,,,2,90 ---Other     kg 05771,True,46,text
+0801.21,00 - - In shell     kg 05772,15%,Free,15%,Free,,,2,00 - - In shell     kg 05772,True,46,text
+0801.22,00 - - Shelled     kg 05772,15%,Free,15%,Free,,,2,00 - - Shelled     kg 05772,True,46,text
+0801.31,00 - - In shell     kg 05773,15%,Free,15%,Free,,,2,00 - - In shell     kg 05773,True,46,text
+0801.32,00 - - Shelled     kg 05773,15%,Free,15%,Free,,,2,00 - - Shelled     kg 05773,True,46,text
+08.02,"08.02 Other nuts, fresh or dried, whether",,,,,,,2,"08.02 Other nuts, fresh or dried, whether",False,46,text
+0802.11,00 - - In shell     kg 05774,15%,Free,15%,Free,,,2,00 - - In shell     kg 05774,True,46,text
+0802.12,00 - - Shelled     kg 05774,15%,Free,15%,Free,,,2,00 - - Shelled     kg 05774,True,46,text
+0802.21,00 - - In shell     kg 05775,15%,Free,15%,Free,,,2,00 - - In shell     kg 05775,True,47,text
+0802.22,00 - - Shelled     kg 05775,15%,Free,15%,Free,,,2,00 - - Shelled     kg 05775,True,47,text
+0802.31,00 - - In shell     kg 05776,15%,Free,15%,Free,,,2,00 - - In shell     kg 05776,True,47,text
+0802.32,00 - - Shelled     kg 05776,15%,Free,15%,Free,,,2,00 - - Shelled     kg 05776,True,47,text
+0802.41,00 --In shell     kg 05778,20%,Free,15%,Free,,,2,00 --In shell     kg 05778,True,47,text
+0802.42,00 --Shelled     kg 05779,20%,Free,15%,Free,,,2,00 --Shelled     kg 05779,True,47,text
+0802.51,00 --In shell     kg 05780,20%,Free,15%,Free,,,2,00 --In shell     kg 05780,True,47,text
+0802.52,00 --Shelled     kg 05780,20%,Free,15%,Free,,,2,00 --Shelled     kg 05780,True,47,text
+0802.61,00 --In shell     kg 05784,15%,Free,15%,Free,,,2,00 --In shell     kg 05784,True,47,text
+0802.62,00 --Shelled     kg 05784,15%,Free,15%,Free,,,2,00 --Shelled     kg 05784,True,47,text
+0802.70,00 -Kola nuts (Cols spp.)     kg 05784,20%,Free,15%,Free,,,2,00 -Kola nuts (Cols spp.)     kg 05784,True,47,text
+0802.80,10 ---Betel nuts     kg 05779,20%,Free,15%,Free,,,2,10 ---Betel nuts     kg 05779,True,47,text
+0802.80,90 ---Other     kg 05779,20%,Free,15%,Free,,,2,90 ---Other     kg 05779,True,47,text
+0802.90,10 ---Tuitui     kg 05779,20%,Free,15%,Free,,,2,10 ---Tuitui     kg 05779,True,47,text
+0802.90,90 ---Other     kg 05779,20%,Free,15%,Free,,,2,90 ---Other     kg 05779,True,47,text
+08.03,"08.03 Bananas, including plantains,",,,,,,,2,"08.03 Bananas, including plantains,",False,47,text
+0803.10,10 - - - Plantains fresh (unripe)     kg 05730,20%,Free,15%,Free,,,2,10 - - - Plantains fresh (unripe)     kg 05730,True,47,text
+0803.10,90 - - - Other     kg 05730,20%,Free,15%,Free,,,2,90 - - - Other     kg 05730,True,47,text
+0803.90,10 - - - Bananas fresh     kg 05730,20%,Free,15%,Free,,,2,10 - - - Bananas fresh     kg 05730,True,47,text
+0803.90,90 ---Other     kg 05730,20%,Free,15%,Free,,,2,90 ---Other     kg 05730,True,48,text
+08.04,"08.04 Dates, figs, pineapples,",,,,,,,2,"08.04 Dates, figs, pineapples,",False,48,text
+0804.10,00 - Dates     kg 05796,20%,Free,15%,Free,,,2,00 - Dates     kg 05796,True,48,text
+0804.20,00 - Figs     kg 05760,20%,Free,15%,Free,,,2,00 - Figs     kg 05760,True,48,text
+0804.30,00 - Pineapples     kg 05795,20%,Free,15%,Free,,,2,00 - Pineapples     kg 05795,True,48,text
+0804.40,00 - Avocados     kg 05797,20%,Free,15%,Free,,,2,00 - Avocados     kg 05797,True,48,text
+0804.50,"00 - Guavas, mangoes and     kg 05797",20%,Free,15%,Free,,,2,"00 - Guavas, mangoes and     kg 05797",True,48,text
+08.05,"08.05 Citrus fruit, fresh or dried.",,,,,,,2,"08.05 Citrus fruit, fresh or dried.",False,48,text
+0805.10,10 - - - Fresh     kg 05711,8%,Free,15%,Free,,,2,10 - - - Fresh     kg 05711,True,48,text
+0805.10,90 - - - Other 20 %    kg 05711,Free,15%,Free,,,,2,90 - - - Other 20 %    kg 05711,True,48,text
+0805.21,00 --Mandarins (including tangerines     kg 05712,8%,Free,15%,Free,,,2,00 --Mandarins (including tangerines     kg 05712,True,48,text
+0805.22,00 --Clementines     kg 05712,8%,Free,15%,Free,,,2,00 --Clementines     kg 05712,True,48,text
+0805.29,00 --Other     kg 05712,8%,Free,15%,Free,,,2,00 --Other     kg 05712,True,48,text
+0805.40,"00 - Grapefruit, including pomelos     kg 05722",20%,Free,15%,Free,,,2,"00 - Grapefruit, including pomelos     kg 05722",True,48,text
+0805.50,"00 - Lemons (Citrus limon, Citrus     kg 05722",20%,Free,15%,Free,,,2,"00 - Lemons (Citrus limon, Citrus     kg 05722",True,48,text
+0805.90,00 - Other     kg 05729,20%,Free,15%,Free,,,2,00 - Other     kg 05729,True,48,text
+08.06,"08.06 Grapes, fresh or dried.",,,,,,,2,"08.06 Grapes, fresh or dried.",False,48,text
+0806.10,00 - Fresh     kg 05751,Free,Free,15%,Free,,,2,00 - Fresh     kg 05751,True,48,text
+0806.20,00 - Dried     kg 05752,20%,Free,15%,Free,,,2,00 - Dried     kg 05752,True,48,text
+08.07,08.07 Melons (including watermelons),,,,,,,2,08.07 Melons (including watermelons),False,48,text
+0807.11,00 - - Watermelons     kg 05791,10%,Free,15%,Free,,,2,00 - - Watermelons     kg 05791,True,48,text
+0807.19,00 - - Other     kg 05791,10%,Free,15%,Free,,,2,00 - - Other     kg 05791,True,48,text
+0807.20,00 - Pawpaws (papayas)     kg 05791,20%,Free,15%,Free,,,2,00 - Pawpaws (papayas)     kg 05791,True,49,text
+08.08,"08.08 Apples, pears and quinces, fresh.",,,,,,,2,"08.08 Apples, pears and quinces, fresh.",False,49,text
+0808.10,00 - Apples     kg 05740,Free,Free,15%,Free,,,2,00 - Apples     kg 05740,True,49,text
+0808.30,00 -Pears     kg 05793,Free,Free,15%,Free,,,2,00 -Pears     kg 05793,True,49,text
+0808.40,00 -Quinces     kg 05793,Free,Free,15%,Free,,,2,00 -Quinces     kg 05793,True,49,text
+08.09,"08.09 Apricots, cherries, peaches",,,,,,,2,"08.09 Apricots, cherries, peaches",False,49,text
+0809.10,00 - Apricots     kg 05793,10%,Free,15%,Free,,,2,00 - Apricots     kg 05793,True,49,text
+0809.21,00 --Sour cherries (Prunus cerasus)     kg 05793,20%,Free,15%,Free,,,2,00 --Sour cherries (Prunus cerasus)     kg 05793,True,49,text
+0809.29,00 --Other     kg 05793,20%,Free,15%,Free,,,2,00 --Other     kg 05793,True,49,text
+0809.30,"00 - Peaches, including nectarines     kg 05793",10%,Free,15%,Free,,,2,"00 - Peaches, including nectarines     kg 05793",True,49,text
+0809.40,00 - Plums and sloes     kg 05793,10%,Free,15%,Free,,,2,00 - Plums and sloes     kg 05793,True,49,text
+08.10,"08.10 Other fruit, fresh.",,,,,,,2,"08.10 Other fruit, fresh.",False,49,text
+0810.10,00 - Strawberries     kg 05794,10%,Free,15%,Free,,,2,00 - Strawberries     kg 05794,True,49,text
+0810.20,"00 - Raspberries, blackberries,     kg 05794",10%,Free,15%,Free,,,2,"00 - Raspberries, blackberries,     kg 05794",True,49,text
+0810.30,"00 -Black, white or red currants and     kg 05794",20%,Free,15%,Free,,,2,"00 -Black, white or red currants and     kg 05794",True,49,text
+0810.40,"00 - Cranberries, bilberries and other     kg 05794",20%,Free,15%,Free,,,2,"00 - Cranberries, bilberries and other     kg 05794",True,49,text
+0810.50,00 - Kiwifruit     kg 05798,10%,Free,15%,Free,,,2,00 - Kiwifruit     kg 05798,True,49,text
+0810.60,00 - Durians     kg 05798,20%,Free,15%,Free,,,2,00 - Durians     kg 05798,True,49,text
+0810.70,10 ---Nonu Fruit     kg 05798,20%,Free,15%,Free,,,2,10 ---Nonu Fruit     kg 05798,True,49,text
+0810.70,90 ---Other     kg 05798,20%,Free,15%,Free,,,2,90 ---Other     kg 05798,True,49,text
+0810.90,10 ---Breadfruit     kg 05798,20%,Free,15%,Free,,,2,10 ---Breadfruit     kg 05798,True,49,text
+0810.90,20 ---Jackfruit     kg 05798,20%,Free,15%,Free,,,2,20 ---Jackfruit     kg 05798,True,49,text
+0810.90,40 ---Tamarind     kg 05798,20%,Free,15%,Free,,,2,40 ---Tamarind     kg 05798,True,49,text
+0810.90,90 ---Other     kg 05798,20%,Free,15%,Free,,,2,90 ---Other     kg 05798,True,50,text
+08.11,"08.11 Fruit and nuts, uncooked or",,,,,,,2,"08.11 Fruit and nuts, uncooked or",False,50,text
+0811.10,10 - - - Containing added sugar or     kg 05831,20%,Free,15%,Free,,,2,10 - - - Containing added sugar or     kg 05831,True,50,text
+0811.10,90 - - - Other     kg 05831,20%,Free,15%,Free,,,2,90 - - - Other     kg 05831,True,50,text
+0811.20,10 - - - Containing added sugar or     kg 05832,20%,Free,15%,Free,,,2,10 - - - Containing added sugar or     kg 05832,True,50,text
+0811.20,90 - - - Other     kg 05832,20%,Free,15%,Free,,,2,90 - - - Other     kg 05832,True,50,text
+0811.90,10 - - - Containing added sugar or     kg 05839,20%,Free,15%,Free,,,2,10 - - - Containing added sugar or     kg 05839,True,50,text
+0811.90,90 - - - Other     kg 05839,20%,Free,15%,Free,,,2,90 - - - Other     kg 05839,True,50,text
+08.12,"08.12 Fruit and nuts, provisionally",,,,,,,2,"08.12 Fruit and nuts, provisionally",False,50,text
+0812.10,00 - Cherries     kg 05821,20%,Free,15%,Free,,,2,00 - Cherries     kg 05821,True,50,text
+0812.90,10 ---Passionfruit     kg 05821,20%,Free,15%,Free,,,2,10 ---Passionfruit     kg 05821,True,50,text
+0812.90,90 ---Other\     kg 05821,20%,Free,15%,Free,,,2,90 ---Other\     kg 05821,True,50,text
+08.13,"08.13 Fruit, dried, other than that of",,,,,,,2,"08.13 Fruit, dried, other than that of",False,50,text
+0813.10,00 - Apricots     kg 05799,20%,Free,15%,Free,,,2,00 - Apricots     kg 05799,True,50,text
+0813.20,00 - Prunes     kg 05799,20%,Free,15%,Free,,,2,00 - Prunes     kg 05799,True,50,text
+0813.30,00 - Apples     kg 05799,20%,Free,15%,Free,,,2,00 - Apples     kg 05799,True,50,text
+0813.40,00 - Other fruit     kg 05799,20%,Free,15%,Free,,,2,00 - Other fruit     kg 05799,True,50,text
+0813.50,10 - - - With added salt     kg 05799,20%,Free,15%,Free,,,2,10 - - - With added salt     kg 05799,True,51,text
+0813.50,90 - - - Other     kg 05799,20%,Free,15%,Free,,,2,90 - - - Other     kg 05799,True,51,text
+0814.00,00 - Peel of citrus fruit or melons     kg 05822,20%,Free,15%,Free,,,2,00 - Peel of citrus fruit or melons     kg 05822,True,51,text
+09.01,"09.01 Coffee, whether or not roasted or",,,,,,,2,"09.01 Coffee, whether or not roasted or",False,52,text
+0901.11,10 ---Coffee cherry     kg 07111,8%,Free,15%,Free,,,2,10 ---Coffee cherry     kg 07111,True,52,text
+0901.11,20 ---Green beans     kg 07111,8%,Free,15%,Free,,,2,20 ---Green beans     kg 07111,True,52,text
+0901.11,90 ---Other     kg 07111,8%,Free,15%,Free,,,2,90 ---Other     kg 07111,True,52,text
+0901.12,00 - - Decaffeinated     kg 07112,8%,Free,15%,Free,,,2,00 - - Decaffeinated     kg 07112,True,52,text
+0901.21,00 - - Not decaffeinated     kg 07120,8%,Free,15%,Free,,,2,00 - - Not decaffeinated     kg 07120,True,52,text
+0901.22,00 - - Decaffeinated     kg 07120,8%,Free,15%,Free,,,2,00 - - Decaffeinated     kg 07120,True,52,text
+0901.90,00 - Other     kg 07132,20%,Free,15%,Free,,,2,00 - Other     kg 07132,True,52,text
+09.02,"09.02 Tea, whether or not flavoured.",,,,,,,2,"09.02 Tea, whether or not flavoured.",False,52,text
+0902.10,10 - - - Instant Tea     kg 07432,20%,Free,15%,Free,,,2,10 - - - Instant Tea     kg 07432,True,52,text
+0902.10,90 - - - Other     kg 07432,20%,Free,15%,Free,,,2,90 - - - Other     kg 07432,True,52,text
+0902.20,10 - - - Instant Tea     kg 07432,20%,Free,15%,Free,,,2,10 - - - Instant Tea     kg 07432,True,52,text
+0902.20,90 - - - Other     kg 07432,20%,Free,15%,Free,,,2,90 - - - Other     kg 07432,True,52,text
+0902.30,10 - - - Instant Tea     kg 07432,20%,Free,15%,Free,,,2,10 - - - Instant Tea     kg 07432,True,53,text
+0902.30,90 - - - Other     kg 07432,20%,Free,15%,Free,,,2,90 - - - Other     kg 07432,True,53,text
+0902.40,10 - - - Instant Tea     kg 07432,20%,Free,15%,Free,,,2,10 - - - Instant Tea     kg 07432,True,53,text
+0902.40,90 - - - Other     kg 07432,20%,Free,15%,Free,,,2,90 - - - Other     kg 07432,True,53,text
+0903.00,00 -Mate.     kg 07431,8%,Free,15%,Free,,,2,00 -Mate.     kg 07431,True,53,text
+09.04,09.04 Pepper of the genus Piper; dried,,,,,,,2,09.04 Pepper of the genus Piper; dried,False,53,text
+0904.11,00 - - Neither crushed nor ground     kg 07511,20%,Free,15%,Free,,,2,00 - - Neither crushed nor ground     kg 07511,True,53,text
+0904.12,00 - - Crushed or ground     kg 07512,20%,Free,15%,Free,,,2,00 - - Crushed or ground     kg 07512,True,53,text
+0904.21,"00 --Dried, neither crushed nor ground     kg 07514",20%,Free,15%,Free,,,2,"00 --Dried, neither crushed nor ground     kg 07514",True,53,text
+0904.22,00 --Crushed or ground     kg 07514,20%,Free,15%,Free,,,2,00 --Crushed or ground     kg 07514,True,53,text
+09.05,09.05 Vanilla.,,,,,,,2,09.05 Vanilla.,False,53,text
+0905.10,00 -Neither crushed nor ground     kg 07521,20%,Free,15%,Free,,,2,00 -Neither crushed nor ground     kg 07521,True,53,text
+0905.20,00 -Crushed or ground     kg 07521,20%,Free,15%,Free,,,2,00 -Crushed or ground     kg 07521,True,53,text
+09.06,09.06 Cinnamon and cinnamon-tree,,,,,,,2,09.06 Cinnamon and cinnamon-tree,False,53,text
+0906.11,00 - - Cinnamon (cinnamomum     kg 07522,20%,Free,15%,Free,,,2,00 - - Cinnamon (cinnamomum     kg 07522,True,53,text
+0906.19,00 - - Other     kg 07522,20%,Free,15%,Free,,,2,00 - - Other     kg 07522,True,53,text
+0906.20,00 - Crushed or ground     kg 07523,20%,Free,15%,Free,,,2,00 - Crushed or ground     kg 07523,True,54,text
+09.07,"09.07 Cloves (whole fruit, cloves",,,,,,,2,"09.07 Cloves (whole fruit, cloves",False,54,text
+0907.10,00 -Neither crushed nor ground     kg 07524,20%,Free,15%,Free,,,2,00 -Neither crushed nor ground     kg 07524,True,54,text
+0907.20,00 -Crushed or ground     kg 07525,20%,Free,15%,Free,,,2,00 -Crushed or ground     kg 07525,True,54,text
+09.08,"09.08 Nutmeg, mace and",,,,,,,2,"09.08 Nutmeg, mace and",False,54,text
+0908.11,00 --Neither crushed nor ground     kg 07525,20%,Free,15%,Free,,,2,00 --Neither crushed nor ground     kg 07525,True,54,text
+0908.12,00 --Crushed or ground     kg 07525,20%,Free,15%,Free,,,2,00 --Crushed or ground     kg 07525,True,54,text
+0908.21,00 --Neither crushed nor ground     kg 07525,20%,Free,15%,Free,,,2,00 --Neither crushed nor ground     kg 07525,True,54,text
+0908.22,00 --Crushed or ground     kg 07525,20%,Free,15%,Free,,,2,00 --Crushed or ground     kg 07525,True,54,text
+0908.31,00 --Neither crushed nor ground     kg 07525,20%,Free,15%,Free,,,2,00 --Neither crushed nor ground     kg 07525,True,54,text
+0908.32,00 --Crushed or ground     kg 07525,20%,Free,15%,Free,,,2,00 --Crushed or ground     kg 07525,True,54,text
+09.09,"09.09 Seeds of anise, badian, fennel,",,,,,,,2,"09.09 Seeds of anise, badian, fennel,",False,54,text
+0909.21,00 --Neither crushed nor ground     kg 07526,20%,Free,15%,Free,,,2,00 --Neither crushed nor ground     kg 07526,True,54,text
+0909.22,00 --Crushed or ground     kg 07526,20%,Free,15%,Free,,,2,00 --Crushed or ground     kg 07526,True,54,text
+0909.31,00 --Neither crushed nor ground     kg 07526,20%,Free,15%,Free,,,2,00 --Neither crushed nor ground     kg 07526,True,54,text
+0909.32,00 --Crushed or ground     kg 07526G,20%,Free,15%,Free,,,2,00 --Crushed or ground     kg 07526G,True,54,text

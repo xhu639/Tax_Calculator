@@ -1,0 +1,40 @@
+# 关税税率查询系统配置文件
+system:
+  name: "Customs Tax Query System"
+  version: "1.0.0"
+  description: "基于语义检索的关税税率查询系统"
+
+# 模型配置
+model:
+  embedding_model: "D:/Program Files/关税优化/BAAI_bge-large-en"
+  max_seq_length: 512
+  batch_size: 32
+  device: "auto"  # auto, cpu, cuda
+
+# 向量数据库配置
+vector_db:
+  db_path: "./vector_db"
+  index_type: "faiss"
+  dimension: 1024  # bge-large-en的向量维度
+  metric: "cosine"
+  nlist: 100  # 聚类中心数量
+
+# PDF解析配置
+pdf_parser:
+  engines: ["pdfplumber", "pymupdf", "pypdf2"]
+  default_engine: "pdfplumber"
+  text_cleanup: true
+  extract_tables: true
+
+# 查询配置
+query:
+  top_k: 10
+  similarity_threshold: 0.7
+  min_tax_rate: 0.0
+  max_tax_rate: 100.0
+
+# 输出配置
+output:
+  csv_encoding: "utf-8-sig"
+  include_metadata: true
+  sort_by_tax_rate: true
